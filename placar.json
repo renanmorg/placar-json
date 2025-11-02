@@ -1,0 +1,152 @@
+{
+  "buildAt": "2025-11-02T19:43:47.276Z",
+  "categorias": {
+    "MELHOR FILME": [],
+    "MELHOR DIREÇÃO": [],
+    "MELHOR ATOR": [],
+    "MELHOR ATRIZ": [
+      {
+        "nome": "emma",
+        "foto": "",
+        "ind": 1,
+        "esn": 2,
+        "seg": 0,
+        "vit": 1,
+        "percent": 21.43,
+        "nPremiacoesCategoria": 3,
+        "nPremiacoesAvaliadas": 3,
+        "flagsPorPremiacao": {
+          "cristal": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "SAG Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": true,
+            "esn": false
+          },
+          "las vegas": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "maria",
+        "foto": "",
+        "ind": 1,
+        "esn": 2,
+        "seg": 0,
+        "vit": 1,
+        "percent": 19.05,
+        "nPremiacoesCategoria": 3,
+        "nPremiacoesAvaliadas": 3,
+        "flagsPorPremiacao": {
+          "cristal": {
+            "ind": false,
+            "seg": false,
+            "vit": true,
+            "esn": false
+          },
+          "SAG Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "las vegas": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "ana",
+        "foto": "",
+        "ind": 1,
+        "esn": 2,
+        "seg": 0,
+        "vit": 1,
+        "percent": 0,
+        "nPremiacoesCategoria": 3,
+        "nPremiacoesAvaliadas": 3,
+        "flagsPorPremiacao": {
+          "cristal": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "SAG Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "las vegas": {
+            "ind": false,
+            "seg": false,
+            "vit": true,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "cristina",
+        "foto": "",
+        "ind": 1,
+        "esn": 2,
+        "seg": 0,
+        "vit": 1,
+        "percent": 0,
+        "nPremiacoesCategoria": 3,
+        "nPremiacoesAvaliadas": 3,
+        "flagsPorPremiacao": {
+          "cristal": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "SAG Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "las vegas": {
+            "ind": false,
+            "seg": false,
+            "vit": true,
+            "esn": false
+          }
+        }
+      }
+    ],
+    "MELHOR ATOR COADJUVANTE": [],
+    "MELHOR ATRIZ COADJUVANTE": [],
+    "MELHOR ESCALAÇÃO DE ELENCO": [],
+    "MELHOR COORDENAÇÃO DE DUBLÊ": [],
+    "MELHOR ROTEIRO ORIGINAL": [],
+    "MELHOR ROTEIRO ADAPTADO": [],
+    "MELHOR EDIÇÃO": [],
+    "MELHOR FILME INTERNACIONAL": [],
+    "MELHOR DOCUMENTÁRIO": [],
+    "MELHOR ANIMAÇÃO": [],
+    "MELHOR FOTOGRAFIA": [],
+    "MELHOR DIREÇÃO DE ARTE": [],
+    "MELHOR FIGURINO": [],
+    "MELHOR MAQUIAGEM": [],
+    "MELHOR SOM": [],
+    "MELHOR CANÇÃO": [],
+    "MELHOR TRILHA SONORA": [],
+    "MELHOR EFEITOS VISUAIS": []
+  }
+}
