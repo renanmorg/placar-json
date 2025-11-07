@@ -1,5 +1,5 @@
 {
-  "buildAt": "2025-11-07T17:31:24.740Z",
+  "buildAt": "2025-11-07T18:06:57.360Z",
   "categorias": {
     "MELHOR FILME": [],
     "MELHOR DIREÇÃO": [],
@@ -15,7 +15,7 @@
         "percent": 12.96,
         "nPremiacoesCategoria": 4,
         "nPremiacoesAvaliadas": 4,
-        "indicadoAoOscar": false,
+        "indicadoAoOscar": true,
         "flagsPorPremiacao": {
           "cristal": {
             "ind": false,
