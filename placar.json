@@ -1,5 +1,5 @@
 {
-  "buildAt": "2025-11-02T19:43:47.276Z",
+  "buildAt": "2025-11-07T17:31:24.740Z",
   "categorias": {
     "MELHOR FILME": [],
     "MELHOR DIREÇÃO": [],
@@ -9,12 +9,13 @@
         "nome": "emma",
         "foto": "",
         "ind": 1,
-        "esn": 2,
+        "esn": 3,
         "seg": 0,
         "vit": 1,
-        "percent": 21.43,
-        "nPremiacoesCategoria": 3,
-        "nPremiacoesAvaliadas": 3,
+        "percent": 12.96,
+        "nPremiacoesCategoria": 4,
+        "nPremiacoesAvaliadas": 4,
+        "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "cristal": {
             "ind": false,
@@ -33,6 +34,12 @@
             "seg": false,
             "vit": false,
             "esn": true
+          },
+          "Globo de Ouro": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
           }
         }
       },
@@ -40,12 +47,13 @@
         "nome": "maria",
         "foto": "",
         "ind": 1,
-        "esn": 2,
+        "esn": 3,
         "seg": 0,
         "vit": 1,
-        "percent": 19.05,
-        "nPremiacoesCategoria": 3,
-        "nPremiacoesAvaliadas": 3,
+        "percent": 11.11,
+        "nPremiacoesCategoria": 4,
+        "nPremiacoesAvaliadas": 4,
+        "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "cristal": {
             "ind": false,
@@ -64,6 +72,50 @@
             "seg": false,
             "vit": false,
             "esn": true
+          },
+          "Globo de Ouro": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "cristina",
+        "foto": "",
+        "ind": 2,
+        "esn": 2,
+        "seg": 0,
+        "vit": 2,
+        "percent": 1.85,
+        "nPremiacoesCategoria": 4,
+        "nPremiacoesAvaliadas": 4,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "cristal": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "SAG Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "las vegas": {
+            "ind": false,
+            "seg": false,
+            "vit": true,
+            "esn": false
+          },
+          "Globo de Ouro": {
+            "ind": false,
+            "seg": false,
+            "vit": true,
+            "esn": false
           }
         }
       },
@@ -71,12 +123,13 @@
         "nome": "ana",
         "foto": "",
         "ind": 1,
-        "esn": 2,
+        "esn": 3,
         "seg": 0,
         "vit": 1,
         "percent": 0,
-        "nPremiacoesCategoria": 3,
-        "nPremiacoesAvaliadas": 3,
+        "nPremiacoesCategoria": 4,
+        "nPremiacoesAvaliadas": 4,
+        "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "cristal": {
             "ind": false,
@@ -95,37 +148,12 @@
             "seg": false,
             "vit": true,
             "esn": false
-          }
-        }
-      },
-      {
-        "nome": "cristina",
-        "foto": "",
-        "ind": 1,
-        "esn": 2,
-        "seg": 0,
-        "vit": 1,
-        "percent": 0,
-        "nPremiacoesCategoria": 3,
-        "nPremiacoesAvaliadas": 3,
-        "flagsPorPremiacao": {
-          "cristal": {
+          },
+          "Globo de Ouro": {
             "ind": false,
             "seg": false,
             "vit": false,
             "esn": true
-          },
-          "SAG Awards": {
-            "ind": false,
-            "seg": false,
-            "vit": false,
-            "esn": true
-          },
-          "las vegas": {
-            "ind": false,
-            "seg": false,
-            "vit": true,
-            "esn": false
           }
         }
       }
