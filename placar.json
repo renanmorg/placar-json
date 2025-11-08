@@ -1,5 +1,5 @@
 {
-  "buildAt": "2025-11-08T18:37:24.148Z",
+  "buildAt": "2025-11-08T18:49:43.860Z",
   "categorias": {
     "MELHOR FILME": [
       {
@@ -1398,152 +1398,16 @@
       {
         "nome": "\"Best Time Ever\" - \"Snoopy Apresenta: Um Musical de Verão\"",
         "foto": "https://i.imgur.com/e4QSMBg.jpeg",
-        "ind": 2,
+        "ind": 1,
         "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 37.1,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "percent": 35.9,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          },
-          "Gotham Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      },
-      {
-        "nome": "\"Golden\" - \"Guerreiras do K-POP\"",
-        "foto": "https://i.imgur.com/so6BgBo.jpeg",
-        "ind": 2,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 37.1,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          },
-          "Gotham Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      },
-      {
-        "nome": "\"Gooflife\" - \"Os Caras Malvados 2\"",
-        "foto": "https://i.imgur.com/EmG3Mrb.jpeg",
-        "ind": 2,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 37.1,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          },
-          "Gotham Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      },
-      {
-        "nome": "\"Kaleidoscope\" - \"A Casa Mágica da Gabby: O Filme\"",
-        "foto": "https://i.imgur.com/K4ejgnc.jpeg",
-        "ind": 2,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 37.1,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          },
-          "Gotham Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      },
-      {
-        "nome": "\"Open the Door\" - \"Os Pestes\"",
-        "foto": "https://i.imgur.com/pW9xSrr.jpeg",
-        "ind": 2,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 37.1,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          },
-          "Gotham Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      },
-      {
-        "nome": "\"Zoo\" - \"Zootopia 2\"",
-        "foto": "https://i.imgur.com/PYObyKr.jpeg",
-        "ind": 2,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 37.1,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          },
-          "Gotham Awards": {
             "ind": true,
             "seg": false,
             "vit": false,
@@ -1555,12 +1419,12 @@
         "nome": "\"Dear Me\" - \"Diane Warren: Relentless\"",
         "foto": "https://i.imgur.com/XRcPfqa.jpeg",
         "ind": 1,
-        "esn": 1,
+        "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 16.13,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "percent": 35.9,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Hollywood Music In Media Awards": {
@@ -1568,12 +1432,6 @@
             "seg": false,
             "vit": false,
             "esn": false
-          },
-          "Gotham Awards": {
-            "ind": false,
-            "seg": false,
-            "vit": false,
-            "esn": true
           }
         }
       },
@@ -1581,12 +1439,12 @@
         "nome": "\"Dream As One\" - \"Avatar: Fogo e Cinzas\"",
         "foto": "https://i.imgur.com/NtanaG7.jpeg",
         "ind": 1,
-        "esn": 1,
+        "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 16.13,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "percent": 35.9,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Hollywood Music In Media Awards": {
@@ -1594,12 +1452,6 @@
             "seg": false,
             "vit": false,
             "esn": false
-          },
-          "Gotham Awards": {
-            "ind": false,
-            "seg": false,
-            "vit": false,
-            "esn": true
           }
         }
       },
@@ -1607,12 +1459,12 @@
         "nome": "\"Drive\" - \"F1\"",
         "foto": "https://i.imgur.com/Jajay7q.jpeg",
         "ind": 1,
-        "esn": 1,
+        "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 16.13,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "percent": 35.9,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Hollywood Music In Media Awards": {
@@ -1620,12 +1472,6 @@
             "seg": false,
             "vit": false,
             "esn": false
-          },
-          "Gotham Awards": {
-            "ind": false,
-            "seg": false,
-            "vit": false,
-            "esn": true
           }
         }
       },
@@ -1633,12 +1479,12 @@
         "nome": "\"Dying To Live\" - \"Billy Idol Should Be Dead\"",
         "foto": "https://i.imgur.com/fyfjkys.jpeg",
         "ind": 1,
-        "esn": 1,
+        "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 16.13,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "percent": 35.9,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Hollywood Music In Media Awards": {
@@ -1646,12 +1492,46 @@
             "seg": false,
             "vit": false,
             "esn": false
-          },
-          "Gotham Awards": {
-            "ind": false,
+          }
+        }
+      },
+      {
+        "nome": "\"Golden\" - \"Guerreiras do K-POP\"",
+        "foto": "https://i.imgur.com/so6BgBo.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 35.9,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
             "seg": false,
             "vit": false,
-            "esn": true
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Gooflife\" - \"Os Caras Malvados 2\"",
+        "foto": "https://i.imgur.com/EmG3Mrb.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 35.9,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
           }
         }
       },
@@ -1659,12 +1539,12 @@
         "nome": "\"Have You Seen My Light\" - \"October 8\"",
         "foto": "https://i.imgur.com/S7n9lxC.jpeg",
         "ind": 1,
-        "esn": 1,
+        "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 16.13,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "percent": 35.9,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Hollywood Music In Media Awards": {
@@ -1672,12 +1552,6 @@
             "seg": false,
             "vit": false,
             "esn": false
-          },
-          "Gotham Awards": {
-            "ind": false,
-            "seg": false,
-            "vit": false,
-            "esn": true
           }
         }
       },
@@ -1685,12 +1559,12 @@
         "nome": "\"Highest 2 Lowest\" - \"Luta de Classes\"",
         "foto": "https://i.imgur.com/ZREZA17.jpeg",
         "ind": 1,
-        "esn": 1,
+        "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 16.13,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "percent": 35.9,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Hollywood Music In Media Awards": {
@@ -1698,12 +1572,6 @@
             "seg": false,
             "vit": false,
             "esn": false
-          },
-          "Gotham Awards": {
-            "ind": false,
-            "seg": false,
-            "vit": false,
-            "esn": true
           }
         }
       },
@@ -1711,12 +1579,12 @@
         "nome": "\"I Lied To You\" - \"Pecadores\"",
         "foto": "https://i.imgur.com/9WigP8l.jpeg",
         "ind": 1,
-        "esn": 1,
+        "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 16.13,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "percent": 35.9,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Hollywood Music In Media Awards": {
@@ -1724,12 +1592,26 @@
             "seg": false,
             "vit": false,
             "esn": false
-          },
-          "Gotham Awards": {
-            "ind": false,
+          }
+        }
+      },
+      {
+        "nome": "\"Kaleidoscope\" - \"A Casa Mágica da Gabby: O Filme\"",
+        "foto": "https://i.imgur.com/K4ejgnc.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 35.9,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
             "seg": false,
             "vit": false,
-            "esn": true
+            "esn": false
           }
         }
       },
@@ -1737,12 +1619,12 @@
         "nome": "\"Last Time (I See The Sun)\" - \"Pecadores\"",
         "foto": "https://i.imgur.com/9WigP8l.jpeg",
         "ind": 1,
-        "esn": 1,
+        "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 16.13,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "percent": 35.9,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Hollywood Music In Media Awards": {
@@ -1750,12 +1632,6 @@
             "seg": false,
             "vit": false,
             "esn": false
-          },
-          "Gotham Awards": {
-            "ind": false,
-            "seg": false,
-            "vit": false,
-            "esn": true
           }
         }
       },
@@ -1763,12 +1639,12 @@
         "nome": "\"Learn to Let Go\" - \"Everything to Me\"",
         "foto": "https://i.imgur.com/hBUlg8C.jpeg",
         "ind": 1,
-        "esn": 1,
+        "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 16.13,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "percent": 35.9,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Hollywood Music In Media Awards": {
@@ -1776,12 +1652,6 @@
             "seg": false,
             "vit": false,
             "esn": false
-          },
-          "Gotham Awards": {
-            "ind": false,
-            "seg": false,
-            "vit": false,
-            "esn": true
           }
         }
       },
@@ -1789,12 +1659,12 @@
         "nome": "\"Lose My Mind\" - \"F1\"",
         "foto": "https://i.imgur.com/Jajay7q.jpeg",
         "ind": 1,
-        "esn": 1,
+        "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 16.13,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "percent": 35.9,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Hollywood Music In Media Awards": {
@@ -1802,12 +1672,6 @@
             "seg": false,
             "vit": false,
             "esn": false
-          },
-          "Gotham Awards": {
-            "ind": false,
-            "seg": false,
-            "vit": false,
-            "esn": true
           }
         }
       },
@@ -1815,12 +1679,12 @@
         "nome": "\"Milagros\" - \"Karol G: Tomorrow was Beautiful\"",
         "foto": "https://i.imgur.com/k8klQgd.jpeg",
         "ind": 1,
-        "esn": 1,
+        "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 16.13,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "percent": 35.9,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Hollywood Music In Media Awards": {
@@ -1828,12 +1692,6 @@
             "seg": false,
             "vit": false,
             "esn": false
-          },
-          "Gotham Awards": {
-            "ind": false,
-            "seg": false,
-            "vit": false,
-            "esn": true
           }
         }
       },
@@ -1841,12 +1699,12 @@
         "nome": "\"My San Francisco\" - \"Plainclothes\"",
         "foto": "https://i.imgur.com/eFWXXqp.jpeg",
         "ind": 1,
-        "esn": 1,
+        "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 16.13,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "percent": 35.9,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Hollywood Music In Media Awards": {
@@ -1854,12 +1712,6 @@
             "seg": false,
             "vit": false,
             "esn": false
-          },
-          "Gotham Awards": {
-            "ind": false,
-            "seg": false,
-            "vit": false,
-            "esn": true
           }
         }
       },
@@ -1867,12 +1719,12 @@
         "nome": "\"No Place Like Home\" - \"Wicked - parte 2\"",
         "foto": "http://i.imgur.com/EYsZO8f.jpeg",
         "ind": 1,
-        "esn": 1,
+        "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 16.13,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "percent": 35.9,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Hollywood Music In Media Awards": {
@@ -1880,12 +1732,26 @@
             "seg": false,
             "vit": false,
             "esn": false
-          },
-          "Gotham Awards": {
-            "ind": false,
+          }
+        }
+      },
+      {
+        "nome": "\"Open the Door\" - \"Os Pestes\"",
+        "foto": "https://i.imgur.com/pW9xSrr.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 35.9,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
             "seg": false,
             "vit": false,
-            "esn": true
+            "esn": false
           }
         }
       },
@@ -1893,12 +1759,12 @@
         "nome": "\"Salt then Sour then Sweet\" - \"Embaixo da Luz de Neon\"",
         "foto": "https://i.imgur.com/vIefeOE.jpeg",
         "ind": 1,
-        "esn": 1,
+        "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 16.13,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "percent": 35.9,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Hollywood Music In Media Awards": {
@@ -1906,12 +1772,6 @@
             "seg": false,
             "vit": false,
             "esn": false
-          },
-          "Gotham Awards": {
-            "ind": false,
-            "seg": false,
-            "vit": false,
-            "esn": true
           }
         }
       },
@@ -1919,12 +1779,12 @@
         "nome": "\"The Girl in the Bubble\" - \"Wicked - parte 2\"",
         "foto": "http://i.imgur.com/EYsZO8f.jpeg",
         "ind": 1,
-        "esn": 1,
+        "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 16.13,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "percent": 35.9,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Hollywood Music In Media Awards": {
@@ -1932,12 +1792,6 @@
             "seg": false,
             "vit": false,
             "esn": false
-          },
-          "Gotham Awards": {
-            "ind": false,
-            "seg": false,
-            "vit": false,
-            "esn": true
           }
         }
       },
@@ -1945,12 +1799,12 @@
         "nome": "\"Time Is All We Have\" - \"Momo",
         "foto": "",
         "ind": 1,
-        "esn": 1,
+        "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 16.13,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "percent": 35.9,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Hollywood Music In Media Awards": {
@@ -1958,12 +1812,6 @@
             "seg": false,
             "vit": false,
             "esn": false
-          },
-          "Gotham Awards": {
-            "ind": false,
-            "seg": false,
-            "vit": false,
-            "esn": true
           }
         }
       },
@@ -1971,12 +1819,12 @@
         "nome": "\"We Believe In Hope\" - \"Quebrando as Regras\"",
         "foto": "https://i.imgur.com/ruTvz6z.jpeg",
         "ind": 1,
-        "esn": 1,
+        "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 16.13,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "percent": 35.9,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Hollywood Music In Media Awards": {
@@ -1984,12 +1832,26 @@
             "seg": false,
             "vit": false,
             "esn": false
-          },
-          "Gotham Awards": {
-            "ind": false,
+          }
+        }
+      },
+      {
+        "nome": "\"Zoo\" - \"Zootopia 2\"",
+        "foto": "https://i.imgur.com/PYObyKr.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 35.9,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
             "seg": false,
             "vit": false,
-            "esn": true
+            "esn": false
           }
         }
       }
@@ -1998,22 +1860,16 @@
       {
         "nome": "\"Bugonia\"",
         "foto": "https://i.imgur.com/OL18pEj.jpeg",
-        "ind": 2,
+        "ind": 1,
         "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 37.1,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "percent": 35.9,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          },
-          "Gotham Awards": {
             "ind": true,
             "seg": false,
             "vit": false,
@@ -2024,22 +1880,16 @@
       {
         "nome": "\"Casa de Dinamite\"",
         "foto": "https://i.imgur.com/aaOF2pR.jpeg",
-        "ind": 2,
+        "ind": 1,
         "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 37.1,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "percent": 35.9,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          },
-          "Gotham Awards": {
             "ind": true,
             "seg": false,
             "vit": false,
@@ -2050,22 +1900,16 @@
       {
         "nome": "\"F1\"",
         "foto": "https://i.imgur.com/Jajay7q.jpeg",
-        "ind": 2,
+        "ind": 1,
         "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 37.1,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "percent": 35.9,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          },
-          "Gotham Awards": {
             "ind": true,
             "seg": false,
             "vit": false,
@@ -2076,22 +1920,16 @@
       {
         "nome": "\"Frankenstein\"",
         "foto": "https://i.imgur.com/EeYKwmM.jpeg",
-        "ind": 2,
+        "ind": 1,
         "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 37.1,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "percent": 35.9,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          },
-          "Gotham Awards": {
             "ind": true,
             "seg": false,
             "vit": false,
@@ -2102,22 +1940,16 @@
       {
         "nome": "\"Hamnet\"",
         "foto": "https://i.imgur.com/Gmnuszl.jpeg",
-        "ind": 2,
+        "ind": 1,
         "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 37.1,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "percent": 35.9,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          },
-          "Gotham Awards": {
             "ind": true,
             "seg": false,
             "vit": false,
@@ -2128,22 +1960,16 @@
       {
         "nome": "\"Marty Supreme\"",
         "foto": "https://i.imgur.com/W09va0P.jpeg",
-        "ind": 2,
+        "ind": 1,
         "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 37.1,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "percent": 35.9,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          },
-          "Gotham Awards": {
             "ind": true,
             "seg": false,
             "vit": false,
@@ -2154,22 +1980,16 @@
       {
         "nome": "\"Pecadores\"",
         "foto": "https://i.imgur.com/9WigP8l.jpeg",
-        "ind": 2,
+        "ind": 1,
         "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 37.1,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "percent": 35.9,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          },
-          "Gotham Awards": {
             "ind": true,
             "seg": false,
             "vit": false,
@@ -2180,22 +2000,16 @@
       {
         "nome": "​\"Uma Batalha Após a Outra\"",
         "foto": "https://i.imgur.com/oNV8zg6.jpeg",
-        "ind": 2,
+        "ind": 1,
         "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 37.1,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "percent": 35.9,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          },
-          "Gotham Awards": {
             "ind": true,
             "seg": false,
             "vit": false,
@@ -2206,22 +2020,16 @@
       {
         "nome": "\"Wicked - parte 2\"",
         "foto": "http://i.imgur.com/EYsZO8f.jpeg",
-        "ind": 2,
+        "ind": 1,
         "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 37.1,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "percent": 35.9,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          },
-          "Gotham Awards": {
             "ind": true,
             "seg": false,
             "vit": false,
