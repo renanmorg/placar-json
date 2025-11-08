@@ -1,5 +1,5 @@
 {
-  "buildAt": "2025-11-07T18:06:57.360Z",
+  "buildAt": "2025-11-08T12:27:44.089Z",
   "categorias": {
     "MELHOR FILME": [],
     "MELHOR DIREÇÃO": [],
@@ -9,12 +9,12 @@
         "nome": "emma",
         "foto": "",
         "ind": 1,
-        "esn": 3,
+        "esn": 5,
         "seg": 0,
         "vit": 1,
-        "percent": 12.96,
-        "nPremiacoesCategoria": 4,
-        "nPremiacoesAvaliadas": 4,
+        "percent": 5.88,
+        "nPremiacoesCategoria": 6,
+        "nPremiacoesAvaliadas": 6,
         "indicadoAoOscar": true,
         "flagsPorPremiacao": {
           "cristal": {
@@ -40,19 +40,131 @@
             "seg": false,
             "vit": false,
             "esn": true
+          },
+          "rubi": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "new york": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "laura dern - \"dance\"",
+        "foto": "",
+        "ind": 1,
+        "esn": 5,
+        "seg": 0,
+        "vit": 1,
+        "percent": 5.88,
+        "nPremiacoesCategoria": 6,
+        "nPremiacoesAvaliadas": 6,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "cristal": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "SAG Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "las vegas": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "Globo de Ouro": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "rubi": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "new york": {
+            "ind": true,
+            "seg": false,
+            "vit": true,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "cri - \"jon\"",
+        "foto": "",
+        "ind": 0,
+        "esn": 5,
+        "seg": 0,
+        "vit": 1,
+        "percent": 4.71,
+        "nPremiacoesCategoria": 6,
+        "nPremiacoesAvaliadas": 6,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "cristal": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "SAG Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "las vegas": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "Globo de Ouro": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "rubi": {
+            "ind": false,
+            "seg": false,
+            "vit": true,
+            "esn": false
+          },
+          "new york": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
           }
         }
       },
       {
         "nome": "maria",
         "foto": "",
-        "ind": 1,
-        "esn": 3,
+        "ind": 0,
+        "esn": 5,
         "seg": 0,
         "vit": 1,
-        "percent": 11.11,
-        "nPremiacoesCategoria": 4,
-        "nPremiacoesAvaliadas": 4,
+        "percent": 4.71,
+        "nPremiacoesCategoria": 6,
+        "nPremiacoesAvaliadas": 6,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "cristal": {
@@ -74,6 +186,18 @@
             "esn": true
           },
           "Globo de Ouro": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "rubi": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "new york": {
             "ind": false,
             "seg": false,
             "vit": false,
@@ -84,13 +208,13 @@
       {
         "nome": "cristina",
         "foto": "",
-        "ind": 2,
-        "esn": 2,
+        "ind": 0,
+        "esn": 4,
         "seg": 0,
         "vit": 2,
-        "percent": 1.85,
-        "nPremiacoesCategoria": 4,
-        "nPremiacoesAvaliadas": 4,
+        "percent": 0,
+        "nPremiacoesCategoria": 6,
+        "nPremiacoesAvaliadas": 6,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "cristal": {
@@ -116,19 +240,31 @@
             "seg": false,
             "vit": true,
             "esn": false
+          },
+          "rubi": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "new york": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
           }
         }
       },
       {
         "nome": "ana",
         "foto": "",
-        "ind": 1,
-        "esn": 3,
+        "ind": 0,
+        "esn": 5,
         "seg": 0,
         "vit": 1,
         "percent": 0,
-        "nPremiacoesCategoria": 4,
-        "nPremiacoesAvaliadas": 4,
+        "nPremiacoesCategoria": 6,
+        "nPremiacoesAvaliadas": 6,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "cristal": {
@@ -150,6 +286,18 @@
             "esn": false
           },
           "Globo de Ouro": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "rubi": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "new york": {
             "ind": false,
             "seg": false,
             "vit": false,
