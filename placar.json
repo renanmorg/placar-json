@@ -1,5 +1,5 @@
 {
-  "buildAt": "2025-11-08T20:49:30.210Z",
+  "buildAt": "2025-11-10T14:44:24.911Z",
   "categorias": {
     "MELHOR FILME": [
       {
@@ -1024,13 +1024,13 @@
     ],
     "MELHOR DOCUMENTÁRIO": [
       {
-        "nome": "\"A 2000 metros de Andriivka\"",
-        "foto": "https://i.imgur.com/InCKIWy.jpeg",
+        "nome": "\"A Vizinha Perfeita\"",
+        "foto": "https://i.imgur.com/REk1hQQ.jpeg",
         "ind": 2,
         "esn": 0,
         "seg": 0,
-        "vit": 0,
-        "percent": 50.65,
+        "vit": 1,
+        "percent": 81.82,
         "nPremiacoesCategoria": 2,
         "nPremiacoesAvaliadas": 2,
         "indicadoAoOscar": false,
@@ -1038,7 +1038,7 @@
           "Critics Choice Documentary Awards": {
             "ind": true,
             "seg": false,
-            "vit": false,
+            "vit": true,
             "esn": false
           },
           "Gotham Awards": {
@@ -1050,8 +1050,8 @@
         }
       },
       {
-        "nome": "\"A Vizinha Perfeita\"",
-        "foto": "https://i.imgur.com/REk1hQQ.jpeg",
+        "nome": "\"A 2000 metros de Andriivka\"",
+        "foto": "https://i.imgur.com/InCKIWy.jpeg",
         "ind": 2,
         "esn": 0,
         "seg": 0,
