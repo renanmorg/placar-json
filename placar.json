@@ -1,5 +1,5 @@
 {
-  "buildAt": "2025-11-10T14:44:24.911Z",
+  "buildAt": "2025-11-13T23:13:08.906Z",
   "categorias": {
     "MELHOR FILME": [
       {
@@ -1026,13 +1026,13 @@
       {
         "nome": "\"A Vizinha Perfeita\"",
         "foto": "https://i.imgur.com/REk1hQQ.jpeg",
-        "ind": 2,
+        "ind": 3,
         "esn": 0,
         "seg": 0,
         "vit": 1,
-        "percent": 81.82,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "percent": 73.64,
+        "nPremiacoesCategoria": 3,
+        "nPremiacoesAvaliadas": 3,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Critics Choice Documentary Awards": {
@@ -1046,19 +1046,25 @@
             "seg": false,
             "vit": false,
             "esn": false
+          },
+          "Cinema Eye Honors Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
           }
         }
       },
       {
         "nome": "\"A 2000 metros de Andriivka\"",
         "foto": "https://i.imgur.com/InCKIWy.jpeg",
-        "ind": 2,
+        "ind": 3,
         "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 50.65,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "percent": 51.82,
+        "nPremiacoesCategoria": 3,
+        "nPremiacoesAvaliadas": 3,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Critics Choice Documentary Awards": {
@@ -1068,6 +1074,44 @@
             "esn": false
           },
           "Gotham Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Cinema Eye Honors Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Cover-Up\"",
+        "foto": "https://i.imgur.com/l4v2raO.jpeg",
+        "ind": 2,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 40,
+        "nPremiacoesCategoria": 3,
+        "nPremiacoesAvaliadas": 3,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Critics Choice Documentary Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "Cinema Eye Honors Awards": {
             "ind": true,
             "seg": false,
             "vit": false,
@@ -1079,12 +1123,12 @@
         "nome": "\"Apocalipse nos Trópicos\"",
         "foto": "https://i.imgur.com/elut1pp.jpeg",
         "ind": 1,
-        "esn": 1,
+        "esn": 2,
         "seg": 0,
         "vit": 0,
-        "percent": 33.77,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "percent": 9.09,
+        "nPremiacoesCategoria": 3,
+        "nPremiacoesAvaliadas": 3,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Critics Choice Documentary Awards": {
@@ -1098,28 +1142,8 @@
             "seg": false,
             "vit": false,
             "esn": true
-          }
-        }
-      },
-      {
-        "nome": "\"Cover-Up\"",
-        "foto": "https://i.imgur.com/l4v2raO.jpeg",
-        "ind": 1,
-        "esn": 1,
-        "seg": 0,
-        "vit": 0,
-        "percent": 33.77,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Critics Choice Documentary Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
           },
-          "Gotham Awards": {
+          "Cinema Eye Honors Awards": {
             "ind": false,
             "seg": false,
             "vit": false,
@@ -1131,12 +1155,12 @@
         "nome": "\"O Presidente Surdo\"",
         "foto": "https://i.imgur.com/uSHuBay.jpeg",
         "ind": 1,
-        "esn": 1,
+        "esn": 2,
         "seg": 0,
         "vit": 0,
-        "percent": 33.77,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "percent": 9.09,
+        "nPremiacoesCategoria": 3,
+        "nPremiacoesAvaliadas": 3,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Critics Choice Documentary Awards": {
@@ -1146,6 +1170,12 @@
             "esn": false
           },
           "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "Cinema Eye Honors Awards": {
             "ind": false,
             "seg": false,
             "vit": false,
@@ -1157,12 +1187,12 @@
         "nome": "\"Orwell: 2+2=5\"",
         "foto": "https://i.imgur.com/mOLCMxV.jpeg",
         "ind": 1,
-        "esn": 1,
+        "esn": 2,
         "seg": 0,
         "vit": 0,
-        "percent": 33.77,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "percent": 9.09,
+        "nPremiacoesCategoria": 3,
+        "nPremiacoesAvaliadas": 3,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Critics Choice Documentary Awards": {
@@ -1172,6 +1202,12 @@
             "esn": false
           },
           "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "Cinema Eye Honors Awards": {
             "ind": false,
             "seg": false,
             "vit": false,
@@ -1183,12 +1219,12 @@
         "nome": "\"Pee-wee as Himself\"",
         "foto": "https://i.imgur.com/UoNopvR.jpeg",
         "ind": 1,
-        "esn": 1,
+        "esn": 2,
         "seg": 0,
         "vit": 0,
-        "percent": 33.77,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "percent": 9.09,
+        "nPremiacoesCategoria": 3,
+        "nPremiacoesAvaliadas": 3,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Critics Choice Documentary Awards": {
@@ -1198,6 +1234,12 @@
             "esn": false
           },
           "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "Cinema Eye Honors Awards": {
             "ind": false,
             "seg": false,
             "vit": false,
@@ -1209,12 +1251,12 @@
         "nome": "\"Riefenstahl\"",
         "foto": "https://i.imgur.com/3t4tXWr.jpeg",
         "ind": 1,
-        "esn": 1,
+        "esn": 2,
         "seg": 0,
         "vit": 0,
-        "percent": 33.77,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "percent": 9.09,
+        "nPremiacoesCategoria": 3,
+        "nPremiacoesAvaliadas": 3,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Critics Choice Documentary Awards": {
@@ -1224,6 +1266,12 @@
             "esn": false
           },
           "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "Cinema Eye Honors Awards": {
             "ind": false,
             "seg": false,
             "vit": false,
@@ -1235,12 +1283,12 @@
         "nome": "\"The Alabama Solution\"",
         "foto": "https://i.imgur.com/hfHHh4X.jpeg",
         "ind": 1,
-        "esn": 1,
+        "esn": 2,
         "seg": 0,
         "vit": 0,
-        "percent": 33.77,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "percent": 9.09,
+        "nPremiacoesCategoria": 3,
+        "nPremiacoesAvaliadas": 3,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Critics Choice Documentary Awards": {
@@ -1250,6 +1298,12 @@
             "esn": false
           },
           "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "Cinema Eye Honors Awards": {
             "ind": false,
             "seg": false,
             "vit": false,
@@ -1261,12 +1315,12 @@
         "nome": "\"The Tale of Silyan\"",
         "foto": "https://i.imgur.com/FIhwhDe.jpeg",
         "ind": 1,
-        "esn": 1,
+        "esn": 2,
         "seg": 0,
         "vit": 0,
-        "percent": 33.77,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "percent": 9.09,
+        "nPremiacoesCategoria": 3,
+        "nPremiacoesAvaliadas": 3,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Critics Choice Documentary Awards": {
@@ -1280,19 +1334,25 @@
             "seg": false,
             "vit": false,
             "esn": true
+          },
+          "Cinema Eye Honors Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
           }
         }
       },
       {
-        "nome": "\"BLKNWS: Terms & Conditions\"",
-        "foto": "https://i.imgur.com/mSHim30.jpeg",
-        "ind": 1,
+        "nome": "\"Put Your Soul on Your Hand and Walk\"",
+        "foto": "https://i.imgur.com/gGEuwzu.jpeg",
+        "ind": 2,
         "esn": 1,
         "seg": 0,
         "vit": 0,
-        "percent": 0,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "percent": 0.91,
+        "nPremiacoesCategoria": 3,
+        "nPremiacoesAvaliadas": 3,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Critics Choice Documentary Awards": {
@@ -1302,6 +1362,76 @@
             "esn": true
           },
           "Gotham Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Cinema Eye Honors Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"BLKNWS: Terms & Conditions\"",
+        "foto": "https://i.imgur.com/mSHim30.jpeg",
+        "ind": 1,
+        "esn": 2,
+        "seg": 0,
+        "vit": 0,
+        "percent": 0,
+        "nPremiacoesCategoria": 3,
+        "nPremiacoesAvaliadas": 3,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Critics Choice Documentary Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "Gotham Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Cinema Eye Honors Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"Embaixo da Luz de Neon\"",
+        "foto": "https://i.imgur.com/OKH41Nk.jpeg",
+        "ind": 1,
+        "esn": 2,
+        "seg": 0,
+        "vit": 0,
+        "percent": 0,
+        "nPremiacoesCategoria": 3,
+        "nPremiacoesAvaliadas": 3,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Critics Choice Documentary Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "Cinema Eye Honors Awards": {
             "ind": true,
             "seg": false,
             "vit": false,
@@ -1313,12 +1443,12 @@
         "nome": "\"My Undesirable Friends: Part I – Last Air in Moscow\"",
         "foto": "https://i.imgur.com/PF6uoTC.jpeg",
         "ind": 1,
-        "esn": 1,
+        "esn": 2,
         "seg": 0,
         "vit": 0,
         "percent": 0,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "nPremiacoesCategoria": 3,
+        "nPremiacoesAvaliadas": 3,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Critics Choice Documentary Awards": {
@@ -1332,19 +1462,25 @@
             "seg": false,
             "vit": false,
             "esn": false
+          },
+          "Cinema Eye Honors Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
           }
         }
       },
       {
-        "nome": "\"Put Your Soul on Your Hand and Walk\"",
-        "foto": "https://i.imgur.com/gGEuwzu.jpeg",
+        "nome": "\"Seeds\"",
+        "foto": "https://i.imgur.com/PHn3e2G.jpeg",
         "ind": 1,
-        "esn": 1,
+        "esn": 2,
         "seg": 0,
         "vit": 0,
         "percent": 0,
-        "nPremiacoesCategoria": 2,
-        "nPremiacoesAvaliadas": 2,
+        "nPremiacoesCategoria": 3,
+        "nPremiacoesAvaliadas": 3,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Critics Choice Documentary Awards": {
@@ -1354,6 +1490,44 @@
             "esn": true
           },
           "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "Cinema Eye Honors Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Tardes de Solidão\"",
+        "foto": "https://i.imgur.com/xaeTxzq.jpeg",
+        "ind": 1,
+        "esn": 2,
+        "seg": 0,
+        "vit": 0,
+        "percent": 0,
+        "nPremiacoesCategoria": 3,
+        "nPremiacoesAvaliadas": 3,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Critics Choice Documentary Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "Cinema Eye Honors Awards": {
             "ind": true,
             "seg": false,
             "vit": false,
