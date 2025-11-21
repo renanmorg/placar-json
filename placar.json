@@ -1,17 +1,407 @@
 {
-  "buildAt": "2025-11-13T23:13:08.906Z",
+  "buildAt": "2025-11-21T21:38:55.153Z",
   "categorias": {
     "MELHOR FILME": [
+      {
+        "nome": "\"Arco\"",
+        "foto": "https://i.imgur.com/S5GYq6d.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.22,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Dog of God\"",
+        "foto": "https://i.imgur.com/IVLnD8Y.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.22,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Fiume o Morte!\"",
+        "foto": "https://i.imgur.com/Yxdzg7M.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.22,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Foi Apenas um Acidente\"",
+        "foto": "https://i.imgur.com/uKXchst.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.22,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Little Amélie or the Character of Rain\"",
+        "foto": "https://i.imgur.com/mc0PKQg.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.22,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Olivia and the Invisible Earthquake\"",
+        "foto": "https://i.imgur.com/722GQZa.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.22,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Riefenstahl\"",
+        "foto": "https://i.imgur.com/3t4tXWr.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.22,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Sirat\"",
+        "foto": "https://i.imgur.com/AxbPQo0.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.22,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Songs of Slow Burning Earth\"",
+        "foto": "https://i.imgur.com/AmtL9xk.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.22,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Sound of Falling\"",
+        "foto": "https://i.imgur.com/Jmd1r6Z.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.22,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Tales From the Magic Garden\"",
+        "foto": "https://i.imgur.com/Hch3wCD.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.22,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Tardes de Solidão\"",
+        "foto": "https://i.imgur.com/xaeTxzq.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.22,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"The Voice of Hind Rajab\"",
+        "foto": "https://i.imgur.com/onvI7wE.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.22,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Valor Sentimental\"",
+        "foto": "https://i.imgur.com/tOWKjVZ.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.22,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"With Hasan in Gaza\"",
+        "foto": "https://i.imgur.com/wCBUuTH.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.22,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
       {
         "nome": "\"Bugonia\"",
         "foto": "https://i.imgur.com/OL18pEj.jpeg",
         "ind": 1,
-        "esn": 0,
+        "esn": 1,
         "seg": 0,
         "vit": 0,
-        "percent": 39.13,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
+        "percent": 0,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Gotham Awards": {
@@ -19,6 +409,12 @@
             "seg": false,
             "vit": false,
             "esn": false
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
           }
         }
       },
@@ -26,12 +422,12 @@
         "nome": "\"East of Wall\"",
         "foto": "https://i.imgur.com/1yGQQra.jpeg",
         "ind": 1,
-        "esn": 0,
+        "esn": 1,
         "seg": 0,
         "vit": 0,
-        "percent": 39.13,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
+        "percent": 0,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Gotham Awards": {
@@ -39,6 +435,12 @@
             "seg": false,
             "vit": false,
             "esn": false
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
           }
         }
       },
@@ -46,12 +448,12 @@
         "nome": "\"Hamnet\"",
         "foto": "https://i.imgur.com/Gmnuszl.jpeg",
         "ind": 1,
-        "esn": 0,
+        "esn": 1,
         "seg": 0,
         "vit": 0,
-        "percent": 39.13,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
+        "percent": 0,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Gotham Awards": {
@@ -59,6 +461,12 @@
             "seg": false,
             "vit": false,
             "esn": false
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
           }
         }
       },
@@ -66,12 +474,12 @@
         "nome": "\"Lurker\"",
         "foto": "https://i.imgur.com/tgyNPDd.jpeg",
         "ind": 1,
-        "esn": 0,
+        "esn": 1,
         "seg": 0,
         "vit": 0,
-        "percent": 39.13,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
+        "percent": 0,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Gotham Awards": {
@@ -79,39 +487,25 @@
             "seg": false,
             "vit": false,
             "esn": false
-          }
-        }
-      },
-      {
-        "nome": "\"Nos Trilhos do Destino\"",
-        "foto": "https://i.imgur.com/haXClB4.jpeg",
-        "ind": 1,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 39.13,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Gotham Awards": {
-            "ind": true,
+          },
+          "European Film Awards": {
+            "ind": false,
             "seg": false,
             "vit": false,
-            "esn": false
+            "esn": true
           }
         }
       },
       {
         "nome": "\"O Testamento de Ann Lee\"",
-        "foto": "https://i.imgur.com/EubyhOj.jpeg",
+        "foto": "https://i.imgur.com/RafyGcG.jpeg",
         "ind": 1,
-        "esn": 0,
+        "esn": 1,
         "seg": 0,
         "vit": 0,
-        "percent": 39.13,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
+        "percent": 0,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Gotham Awards": {
@@ -119,6 +513,12 @@
             "seg": false,
             "vit": false,
             "esn": false
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
           }
         }
       },
@@ -126,12 +526,12 @@
         "nome": "\"Se Eu Tivesse Pernas, Te Chutaria\"",
         "foto": "https://i.imgur.com/aVHcvyG.jpeg",
         "ind": 1,
-        "esn": 0,
+        "esn": 1,
         "seg": 0,
         "vit": 0,
-        "percent": 39.13,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
+        "percent": 0,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Gotham Awards": {
@@ -139,6 +539,38 @@
             "seg": false,
             "vit": false,
             "esn": false
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"Sonhos de Trem\"",
+        "foto": "https://i.imgur.com/haXClB4.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 0,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
           }
         }
       },
@@ -146,12 +578,12 @@
         "nome": "\"Sorry, Baby\"",
         "foto": "https://i.imgur.com/hkXYV0b.jpeg",
         "ind": 1,
-        "esn": 0,
+        "esn": 1,
         "seg": 0,
         "vit": 0,
-        "percent": 39.13,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
+        "percent": 0,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Gotham Awards": {
@@ -159,6 +591,12 @@
             "seg": false,
             "vit": false,
             "esn": false
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
           }
         }
       },
@@ -166,15 +604,75 @@
         "nome": "\"Toque Familiar\"",
         "foto": "https://i.imgur.com/DWliv2A.jpeg",
         "ind": 1,
-        "esn": 0,
+        "esn": 1,
         "seg": 0,
         "vit": 0,
-        "percent": 39.13,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
+        "percent": 0,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Gotham Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"Uma Batalha Após a Outra\"",
+        "foto": "https://i.imgur.com/oNV8zg6.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 0,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      }
+    ],
+    "MELHOR DIREÇÃO": [
+      {
+        "nome": "Jafar Panahi - \"Foi Apenas Um Acidente\"",
+        "foto": "https://i.imgur.com/94chgjq.jpeg",
+        "ind": 2,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 46.3,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "European Film Awards": {
             "ind": true,
             "seg": false,
             "vit": false,
@@ -183,15 +681,15 @@
         }
       },
       {
-        "nome": "\"Uma Batalha Após a Outra\"",
-        "foto": "https://i.imgur.com/oNV8zg6.jpeg",
-        "ind": 1,
+        "nome": "Oliver Laxe - \"Sirat\"",
+        "foto": "https://i.imgur.com/YtKPhD5.jpeg",
+        "ind": 2,
         "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 39.13,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
+        "percent": 46.3,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Gotham Awards": {
@@ -199,24 +697,86 @@
             "seg": false,
             "vit": false,
             "esn": false
+          },
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
           }
         }
-      }
-    ],
-    "MELHOR DIREÇÃO": [
+      },
       {
-        "nome": "Jafar Panahi - \"Apenas Um Acidente\"",
-        "foto": "https://i.imgur.com/94chgjq.jpeg",
+        "nome": "Joachim Trier - \"Valor Sentimental\"",
+        "foto": "https://i.imgur.com/tyK5ssk.png",
         "ind": 1,
-        "esn": 0,
+        "esn": 1,
         "seg": 0,
         "vit": 0,
-        "percent": 39.13,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
+        "percent": 22.22,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "Mascha Schilinski - \"Sound of Falling\"",
+        "foto": "https://i.imgur.com/jK7gN6a.png",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.22,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "Yorgos Lanthimos - \"Bugonia\"",
+        "foto": "https://i.imgur.com/wSg98qo.png",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.22,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
             "ind": true,
             "seg": false,
             "vit": false,
@@ -228,12 +788,12 @@
         "nome": "Kelly Reichardt - \"The Mastermind\"",
         "foto": "https://i.imgur.com/JwUkz4y.jpeg",
         "ind": 1,
-        "esn": 0,
+        "esn": 1,
         "seg": 0,
         "vit": 0,
-        "percent": 39.13,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
+        "percent": 0,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Gotham Awards": {
@@ -241,6 +801,12 @@
             "seg": false,
             "vit": false,
             "esn": false
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
           }
         }
       },
@@ -248,12 +814,12 @@
         "nome": "Mary Bronstein - \"Se Eu Tivesse Pernas, Te Chutaria\"",
         "foto": "https://i.imgur.com/vdzUBvh.png",
         "ind": 1,
-        "esn": 0,
+        "esn": 1,
         "seg": 0,
         "vit": 0,
-        "percent": 39.13,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
+        "percent": 0,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Gotham Awards": {
@@ -261,26 +827,12 @@
             "seg": false,
             "vit": false,
             "esn": false
-          }
-        }
-      },
-      {
-        "nome": "Oliver Laxe - \"Sirat\"",
-        "foto": "https://i.imgur.com/YtKPhD5.jpeg",
-        "ind": 1,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 39.13,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Gotham Awards": {
-            "ind": true,
+          },
+          "European Film Awards": {
+            "ind": false,
             "seg": false,
             "vit": false,
-            "esn": false
+            "esn": true
           }
         }
       },
@@ -288,12 +840,12 @@
         "nome": "Paul Thomas Anderson - \"Uma Batalha Após a Outra\"",
         "foto": "https://i.imgur.com/j4XnY10.jpeg",
         "ind": 1,
-        "esn": 0,
+        "esn": 1,
         "seg": 0,
         "vit": 0,
-        "percent": 39.13,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
+        "percent": 0,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Gotham Awards": {
@@ -301,21 +853,157 @@
             "seg": false,
             "vit": false,
             "esn": false
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
           }
         }
       }
     ],
     "MELHOR ATOR": [
       {
+        "nome": "Idan Weiss - \"Franz\"",
+        "foto": "https://i.imgur.com/JjC8ySI.png",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.22,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "Mads Mikkelsen - \"The Last Viking\"",
+        "foto": "https://i.imgur.com/2hWPQZX.png",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.22,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "Sergi López - \"Sirat\"",
+        "foto": "https://i.imgur.com/DfR2BsA.png",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.22,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "Stellan Skarsgard - \"Valor Sentimental\"",
+        "foto": "https://i.imgur.com/0ninOVQ.png",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.22,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "Toni Servillo - \"La Grazia\"",
+        "foto": "https://i.imgur.com/5V8UpgA.png",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.22,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
         "nome": "Ethan Hawke - \"Blue Moon\"",
         "foto": "https://i.imgur.com/MBCfsH2.png",
         "ind": 1,
-        "esn": 0,
+        "esn": 1,
         "seg": 0,
         "vit": 0,
-        "percent": 39.13,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
+        "percent": 0,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Gotham Awards": {
@@ -323,6 +1011,12 @@
             "seg": false,
             "vit": false,
             "esn": false
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
           }
         }
       },
@@ -330,12 +1024,12 @@
         "nome": "Josh O'Connor - \"The Mastermind\"",
         "foto": "https://i.imgur.com/xeWnTfo.png",
         "ind": 1,
-        "esn": 0,
+        "esn": 1,
         "seg": 0,
         "vit": 0,
-        "percent": 39.13,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
+        "percent": 0,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Gotham Awards": {
@@ -343,6 +1037,12 @@
             "seg": false,
             "vit": false,
             "esn": false
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
           }
         }
       },
@@ -350,12 +1050,12 @@
         "nome": "Lee Byung-hun - \"No Other Choice\"",
         "foto": "https://i.imgur.com/VM15N52.png",
         "ind": 1,
-        "esn": 0,
+        "esn": 1,
         "seg": 0,
         "vit": 0,
-        "percent": 39.13,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
+        "percent": 0,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Gotham Awards": {
@@ -363,6 +1063,12 @@
             "seg": false,
             "vit": false,
             "esn": false
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
           }
         }
       },
@@ -370,12 +1076,12 @@
         "nome": "Sopé Dirísu - \"My Father's Shadow\"",
         "foto": "https://i.imgur.com/DI0BGso.png",
         "ind": 1,
-        "esn": 0,
+        "esn": 1,
         "seg": 0,
         "vit": 0,
-        "percent": 39.13,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
+        "percent": 0,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Gotham Awards": {
@@ -383,6 +1089,12 @@
             "seg": false,
             "vit": false,
             "esn": false
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
           }
         }
       },
@@ -390,12 +1102,12 @@
         "nome": "Wagner Moura - \"O Agente Secreto\"",
         "foto": "https://i.imgur.com/4e1aXxP.png",
         "ind": 1,
-        "esn": 0,
+        "esn": 1,
         "seg": 0,
         "vit": 0,
-        "percent": 39.13,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
+        "percent": 0,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Gotham Awards": {
@@ -403,21 +1115,157 @@
             "seg": false,
             "vit": false,
             "esn": false
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
           }
         }
       }
     ],
     "MELHOR ATRIZ": [
       {
+        "nome": "Leá Drucker - \"Case 137\"",
+        "foto": "https://i.imgur.com/Eudr3aj.png",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.22,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "Leonie Benesch - \"Late Shift\"",
+        "foto": "https://i.imgur.com/BKf81QE.png",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.22,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "Renate Reinsve - \"Valor Sentimental\"",
+        "foto": "https://i.imgur.com/CTJtKVS.png",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.22,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "Valeria Bruni Tedeschi - \"Duse\"",
+        "foto": "https://i.imgur.com/zNzKx1L.png",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.22,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "Vicky Krieps - \"Love Me Tender\"",
+        "foto": "https://i.imgur.com/EydoxtT.png",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.22,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
         "nome": "Amanda Seyfried - \"O Testamento de Ann Lee\"",
         "foto": "https://i.imgur.com/Tal1KGM.png",
         "ind": 1,
-        "esn": 0,
+        "esn": 1,
         "seg": 0,
         "vit": 0,
-        "percent": 39.13,
-        "nPremiacoesCategoria": 7,
-        "nPremiacoesAvaliadas": 1,
+        "percent": 0,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Gotham Awards": {
@@ -425,6 +1273,12 @@
             "seg": false,
             "vit": false,
             "esn": false
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
           }
         }
       },
@@ -432,12 +1286,12 @@
         "nome": "Jennifer Lawrence - \"Morra, Amor\"",
         "foto": "https://i.imgur.com/sBD1AlU.png",
         "ind": 1,
-        "esn": 0,
+        "esn": 1,
         "seg": 0,
         "vit": 0,
-        "percent": 39.13,
-        "nPremiacoesCategoria": 7,
-        "nPremiacoesAvaliadas": 1,
+        "percent": 0,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Gotham Awards": {
@@ -445,6 +1299,12 @@
             "seg": false,
             "vit": false,
             "esn": false
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
           }
         }
       },
@@ -452,12 +1312,12 @@
         "nome": "Jessie Buckley - \"Hamnet\"",
         "foto": "https://i.imgur.com/AsOf0Op.png",
         "ind": 1,
-        "esn": 0,
+        "esn": 1,
         "seg": 0,
         "vit": 0,
-        "percent": 39.13,
-        "nPremiacoesCategoria": 7,
-        "nPremiacoesAvaliadas": 1,
+        "percent": 0,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Gotham Awards": {
@@ -465,6 +1325,12 @@
             "seg": false,
             "vit": false,
             "esn": false
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
           }
         }
       },
@@ -472,12 +1338,12 @@
         "nome": "Rose Byrne - \"Se Eu Tivesse Pernas, Te Chutaria\"",
         "foto": "https://i.imgur.com/m51xBSb.png",
         "ind": 1,
-        "esn": 0,
+        "esn": 1,
         "seg": 0,
         "vit": 0,
-        "percent": 39.13,
-        "nPremiacoesCategoria": 7,
-        "nPremiacoesAvaliadas": 1,
+        "percent": 0,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Gotham Awards": {
@@ -485,6 +1351,12 @@
             "seg": false,
             "vit": false,
             "esn": false
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
           }
         }
       },
@@ -492,12 +1364,12 @@
         "nome": "Tessa Thompson - \"Hedda\"",
         "foto": "https://i.imgur.com/Ni5qLcn.png",
         "ind": 1,
-        "esn": 0,
+        "esn": 1,
         "seg": 0,
         "vit": 0,
-        "percent": 39.13,
-        "nPremiacoesCategoria": 7,
-        "nPremiacoesAvaliadas": 1,
+        "percent": 0,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Gotham Awards": {
@@ -505,6 +1377,12 @@
             "seg": false,
             "vit": false,
             "esn": false
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
           }
         }
       }
@@ -611,7 +1489,7 @@
         }
       },
       {
-        "nome": "Stelan Skarsgard - \"Valor Sentimental\"",
+        "nome": "Stellan Skarsgard - \"Valor Sentimental\"",
         "foto": "https://i.imgur.com/0ninOVQ.png",
         "ind": 1,
         "esn": 0,
@@ -713,22 +1591,20 @@
         }
       }
     ],
-    "MELHOR ESCALAÇÃO DE ELENCO": [],
-    "MELHOR COORDENAÇÃO DE DUBLÊ": [],
-    "MELHOR ROTEIRO ORIGINAL": [
+    "MELHOR ESCALAÇÃO DE ELENCO": [
       {
-        "nome": "\"Foi Apenas Um Acidente\"",
-        "foto": "https://i.imgur.com/uKXchst.jpeg",
+        "nome": "\"Jay Kelly\"",
+        "foto": "https://i.imgur.com/3OcB7pP.jpeg",
         "ind": 1,
         "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 39.13,
+        "percent": 39.29,
         "nPremiacoesCategoria": 1,
         "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
-          "Gotham Awards": {
+          "Astra Creative Arts Awards": {
             "ind": true,
             "seg": false,
             "vit": false,
@@ -737,18 +1613,18 @@
         }
       },
       {
-        "nome": "\"O Agente Secreto\"",
-        "foto": "https://i.imgur.com/7RAcEC3.jpeg",
+        "nome": "\"Marty Supreme\"",
+        "foto": "https://i.imgur.com/W09va0P.jpeg",
         "ind": 1,
         "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 39.13,
+        "percent": 39.29,
         "nPremiacoesCategoria": 1,
         "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
-          "Gotham Awards": {
+          "Astra Creative Arts Awards": {
             "ind": true,
             "seg": false,
             "vit": false,
@@ -757,140 +1633,18 @@
         }
       },
       {
-        "nome": "\"Se Eu Tivesse Pernas, Te Chutaria\"",
-        "foto": "https://i.imgur.com/aVHcvyG.jpeg",
+        "nome": "\"Pecadores\"",
+        "foto": "https://i.imgur.com/9WigP8l.jpeg",
         "ind": 1,
         "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 39.13,
+        "percent": 39.29,
         "nPremiacoesCategoria": 1,
         "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
-          "Gotham Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      },
-      {
-        "nome": "\"Sorry, Baby\"",
-        "foto": "https://i.imgur.com/hkXYV0b.jpeg",
-        "ind": 1,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 39.13,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Gotham Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      },
-      {
-        "nome": "\"Sound of Falling\"",
-        "foto": "https://i.imgur.com/Jmd1r6Z.jpeg",
-        "ind": 1,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 39.13,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Gotham Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      }
-    ],
-    "MELHOR ROTEIRO ADAPTADO": [
-      {
-        "nome": "\"No Other Choice\"",
-        "foto": "https://i.imgur.com/UIO2q75.jpeg",
-        "ind": 1,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 39.13,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Gotham Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      },
-      {
-        "nome": "\"Nos Trilhos do Destino\"",
-        "foto": "https://i.imgur.com/haXClB4.jpeg",
-        "ind": 1,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 39.13,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Gotham Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      },
-      {
-        "nome": "\"Pillion\"",
-        "foto": "https://i.imgur.com/1cWA2VJ.jpeg",
-        "ind": 1,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 39.13,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Gotham Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      },
-      {
-        "nome": "\"Prepatarion for the Next Life\"",
-        "foto": "https://i.imgur.com/PP1VAnp.jpeg",
-        "ind": 1,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 39.13,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Gotham Awards": {
+          "Astra Creative Arts Awards": {
             "ind": true,
             "seg": false,
             "vit": false,
@@ -905,12 +1659,52 @@
         "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 39.13,
+        "percent": 39.29,
         "nPremiacoesCategoria": 1,
         "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
-          "Gotham Awards": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Valor Sentimental\"",
+        "foto": "https://i.imgur.com/tOWKjVZ.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Vivo ou Morto: Um Mistério Knives Out\"",
+        "foto": "https://i.imgur.com/fauG5y4.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
             "ind": true,
             "seg": false,
             "vit": false,
@@ -919,7 +1713,592 @@
         }
       }
     ],
-    "MELHOR EDIÇÃO": [],
+    "MELHOR COORDENAÇÃO DE DUBLÊ": [
+      {
+        "nome": "\"63 Horas de Pânico\"",
+        "foto": "https://i.imgur.com/mFYcAK5.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Bugonia\"",
+        "foto": "https://i.imgur.com/OL18pEj.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Frankenstein\"",
+        "foto": "https://i.imgur.com/EeYKwmM.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Missão Impossível - O Acerto Final\"",
+        "foto": "https://i.imgur.com/QBFgPQh.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Pecadores\"",
+        "foto": "https://i.imgur.com/9WigP8l.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Wicked - parte 2\"",
+        "foto": "http://i.imgur.com/EYsZO8f.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      }
+    ],
+    "MELHOR ROTEIRO ORIGINAL": [
+      {
+        "nome": "\"Foi Apenas Um Acidente\"",
+        "foto": "https://i.imgur.com/uKXchst.jpeg",
+        "ind": 2,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 46.3,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Sound of Falling\"",
+        "foto": "https://i.imgur.com/Jmd1r6Z.jpeg",
+        "ind": 2,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 46.3,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"La Grazia\"",
+        "foto": "https://i.imgur.com/BjZ1H0M.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.22,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Sirat\"",
+        "foto": "https://i.imgur.com/AxbPQo0.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.22,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Valor Sentimental\"",
+        "foto": "https://i.imgur.com/tOWKjVZ.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.22,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"O Agente Secreto\"",
+        "foto": "https://i.imgur.com/7RAcEC3.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 0,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"Se Eu Tivesse Pernas, Te Chutaria\"",
+        "foto": "https://i.imgur.com/aVHcvyG.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 0,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"Sorry, Baby\"",
+        "foto": "https://i.imgur.com/hkXYV0b.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 0,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      }
+    ],
+    "MELHOR ROTEIRO ADAPTADO": [
+      {
+        "nome": "\"No Other Choice\"",
+        "foto": "https://i.imgur.com/UIO2q75.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 0,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"Pillion\"",
+        "foto": "https://i.imgur.com/1cWA2VJ.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 0,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"Prepatarion for the Next Life\"",
+        "foto": "https://i.imgur.com/PP1VAnp.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 0,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"Sonhos de Trem\"",
+        "foto": "https://i.imgur.com/haXClB4.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 0,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"Uma Batalha Após a Outra\"",
+        "foto": "https://i.imgur.com/oNV8zg6.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 0,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      }
+    ],
+    "MELHOR EDIÇÃO": [
+      {
+        "nome": "\"Marty Supreme\"",
+        "foto": "https://i.imgur.com/W09va0P.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"No Other Choice\"",
+        "foto": "https://i.imgur.com/UIO2q75.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Pecadores\"",
+        "foto": "https://i.imgur.com/9WigP8l.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Uma Batalha Após a Outra\"",
+        "foto": "https://i.imgur.com/oNV8zg6.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Valor Sentimental\"",
+        "foto": "https://i.imgur.com/tOWKjVZ.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Wicked - parte 2\"",
+        "foto": "http://i.imgur.com/EYsZO8f.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      }
+    ],
     "MELHOR FILME INTERNACIONAL": [
       {
         "nome": "\"Foi Apenas Um Acidente\"",
@@ -1027,12 +2406,12 @@
         "nome": "\"A Vizinha Perfeita\"",
         "foto": "https://i.imgur.com/REk1hQQ.jpeg",
         "ind": 3,
-        "esn": 0,
+        "esn": 2,
         "seg": 0,
         "vit": 1,
-        "percent": 73.64,
-        "nPremiacoesCategoria": 3,
-        "nPremiacoesAvaliadas": 3,
+        "percent": 25.93,
+        "nPremiacoesCategoria": 5,
+        "nPremiacoesAvaliadas": 5,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Critics Choice Documentary Awards": {
@@ -1052,6 +2431,106 @@
             "seg": false,
             "vit": false,
             "esn": false
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "IDA Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"Apocalipse nos Trópicos\"",
+        "foto": "https://i.imgur.com/elut1pp.jpeg",
+        "ind": 2,
+        "esn": 3,
+        "seg": 0,
+        "vit": 0,
+        "percent": 14.29,
+        "nPremiacoesCategoria": 5,
+        "nPremiacoesAvaliadas": 5,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Critics Choice Documentary Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "Cinema Eye Honors Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "IDA Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"The Tale of Silyan\"",
+        "foto": "https://i.imgur.com/FIhwhDe.jpeg",
+        "ind": 2,
+        "esn": 3,
+        "seg": 0,
+        "vit": 0,
+        "percent": 14.29,
+        "nPremiacoesCategoria": 5,
+        "nPremiacoesAvaliadas": 5,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Critics Choice Documentary Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "Cinema Eye Honors Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "IDA Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
           }
         }
       },
@@ -1059,12 +2538,12 @@
         "nome": "\"A 2000 metros de Andriivka\"",
         "foto": "https://i.imgur.com/InCKIWy.jpeg",
         "ind": 3,
-        "esn": 0,
+        "esn": 2,
         "seg": 0,
         "vit": 0,
-        "percent": 51.82,
-        "nPremiacoesCategoria": 3,
-        "nPremiacoesAvaliadas": 3,
+        "percent": 13.23,
+        "nPremiacoesCategoria": 5,
+        "nPremiacoesAvaliadas": 5,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Critics Choice Documentary Awards": {
@@ -1084,6 +2563,18 @@
             "seg": false,
             "vit": false,
             "esn": false
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "IDA Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
           }
         }
       },
@@ -1091,12 +2582,12 @@
         "nome": "\"Cover-Up\"",
         "foto": "https://i.imgur.com/l4v2raO.jpeg",
         "ind": 2,
-        "esn": 1,
+        "esn": 3,
         "seg": 0,
         "vit": 0,
-        "percent": 40,
-        "nPremiacoesCategoria": 3,
-        "nPremiacoesAvaliadas": 3,
+        "percent": 6.35,
+        "nPremiacoesCategoria": 5,
+        "nPremiacoesAvaliadas": 5,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Critics Choice Documentary Awards": {
@@ -1116,34 +2607,14 @@
             "seg": false,
             "vit": false,
             "esn": false
-          }
-        }
-      },
-      {
-        "nome": "\"Apocalipse nos Trópicos\"",
-        "foto": "https://i.imgur.com/elut1pp.jpeg",
-        "ind": 1,
-        "esn": 2,
-        "seg": 0,
-        "vit": 0,
-        "percent": 9.09,
-        "nPremiacoesCategoria": 3,
-        "nPremiacoesAvaliadas": 3,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Critics Choice Documentary Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
           },
-          "Gotham Awards": {
+          "European Film Awards": {
             "ind": false,
             "seg": false,
             "vit": false,
             "esn": true
           },
-          "Cinema Eye Honors Awards": {
+          "IDA Awards": {
             "ind": false,
             "seg": false,
             "vit": false,
@@ -1152,22 +2623,22 @@
         }
       },
       {
-        "nome": "\"O Presidente Surdo\"",
-        "foto": "https://i.imgur.com/uSHuBay.jpeg",
-        "ind": 1,
-        "esn": 2,
+        "nome": "\"Seeds\"",
+        "foto": "https://i.imgur.com/PHn3e2G.jpeg",
+        "ind": 2,
+        "esn": 3,
         "seg": 0,
         "vit": 0,
-        "percent": 9.09,
-        "nPremiacoesCategoria": 3,
-        "nPremiacoesAvaliadas": 3,
+        "percent": 2.65,
+        "nPremiacoesCategoria": 5,
+        "nPremiacoesAvaliadas": 5,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Critics Choice Documentary Awards": {
-            "ind": true,
+            "ind": false,
             "seg": false,
             "vit": false,
-            "esn": false
+            "esn": true
           },
           "Gotham Awards": {
             "ind": false,
@@ -1176,87 +2647,35 @@
             "esn": true
           },
           "Cinema Eye Honors Awards": {
-            "ind": false,
-            "seg": false,
-            "vit": false,
-            "esn": true
-          }
-        }
-      },
-      {
-        "nome": "\"Orwell: 2+2=5\"",
-        "foto": "https://i.imgur.com/mOLCMxV.jpeg",
-        "ind": 1,
-        "esn": 2,
-        "seg": 0,
-        "vit": 0,
-        "percent": 9.09,
-        "nPremiacoesCategoria": 3,
-        "nPremiacoesAvaliadas": 3,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Critics Choice Documentary Awards": {
             "ind": true,
             "seg": false,
             "vit": false,
             "esn": false
           },
-          "Gotham Awards": {
+          "European Film Awards": {
             "ind": false,
             "seg": false,
             "vit": false,
             "esn": true
           },
-          "Cinema Eye Honors Awards": {
-            "ind": false,
-            "seg": false,
-            "vit": false,
-            "esn": true
-          }
-        }
-      },
-      {
-        "nome": "\"Pee-wee as Himself\"",
-        "foto": "https://i.imgur.com/UoNopvR.jpeg",
-        "ind": 1,
-        "esn": 2,
-        "seg": 0,
-        "vit": 0,
-        "percent": 9.09,
-        "nPremiacoesCategoria": 3,
-        "nPremiacoesAvaliadas": 3,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Critics Choice Documentary Awards": {
+          "IDA Awards": {
             "ind": true,
             "seg": false,
             "vit": false,
             "esn": false
-          },
-          "Gotham Awards": {
-            "ind": false,
-            "seg": false,
-            "vit": false,
-            "esn": true
-          },
-          "Cinema Eye Honors Awards": {
-            "ind": false,
-            "seg": false,
-            "vit": false,
-            "esn": true
           }
         }
       },
       {
         "nome": "\"Riefenstahl\"",
         "foto": "https://i.imgur.com/3t4tXWr.jpeg",
-        "ind": 1,
-        "esn": 2,
+        "ind": 2,
+        "esn": 3,
         "seg": 0,
         "vit": 0,
-        "percent": 9.09,
-        "nPremiacoesCategoria": 3,
-        "nPremiacoesAvaliadas": 3,
+        "percent": 1.59,
+        "nPremiacoesCategoria": 5,
+        "nPremiacoesAvaliadas": 5,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Critics Choice Documentary Awards": {
@@ -1276,66 +2695,14 @@
             "seg": false,
             "vit": false,
             "esn": true
-          }
-        }
-      },
-      {
-        "nome": "\"The Alabama Solution\"",
-        "foto": "https://i.imgur.com/hfHHh4X.jpeg",
-        "ind": 1,
-        "esn": 2,
-        "seg": 0,
-        "vit": 0,
-        "percent": 9.09,
-        "nPremiacoesCategoria": 3,
-        "nPremiacoesAvaliadas": 3,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Critics Choice Documentary Awards": {
+          },
+          "European Film Awards": {
             "ind": true,
             "seg": false,
             "vit": false,
             "esn": false
           },
-          "Gotham Awards": {
-            "ind": false,
-            "seg": false,
-            "vit": false,
-            "esn": true
-          },
-          "Cinema Eye Honors Awards": {
-            "ind": false,
-            "seg": false,
-            "vit": false,
-            "esn": true
-          }
-        }
-      },
-      {
-        "nome": "\"The Tale of Silyan\"",
-        "foto": "https://i.imgur.com/FIhwhDe.jpeg",
-        "ind": 1,
-        "esn": 2,
-        "seg": 0,
-        "vit": 0,
-        "percent": 9.09,
-        "nPremiacoesCategoria": 3,
-        "nPremiacoesAvaliadas": 3,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Critics Choice Documentary Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          },
-          "Gotham Awards": {
-            "ind": false,
-            "seg": false,
-            "vit": false,
-            "esn": true
-          },
-          "Cinema Eye Honors Awards": {
+          "IDA Awards": {
             "ind": false,
             "seg": false,
             "vit": false,
@@ -1347,12 +2714,12 @@
         "nome": "\"Put Your Soul on Your Hand and Walk\"",
         "foto": "https://i.imgur.com/gGEuwzu.jpeg",
         "ind": 2,
-        "esn": 1,
+        "esn": 3,
         "seg": 0,
         "vit": 0,
-        "percent": 0.91,
-        "nPremiacoesCategoria": 3,
-        "nPremiacoesAvaliadas": 3,
+        "percent": 0,
+        "nPremiacoesCategoria": 5,
+        "nPremiacoesAvaliadas": 5,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Critics Choice Documentary Awards": {
@@ -1368,6 +2735,62 @@
             "esn": false
           },
           "Cinema Eye Honors Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "IDA Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"Songs of Slow Burning Earth\"",
+        "foto": "https://i.imgur.com/AmtL9xk.jpeg",
+        "ind": 2,
+        "esn": 3,
+        "seg": 0,
+        "vit": 0,
+        "percent": 0,
+        "nPremiacoesCategoria": 5,
+        "nPremiacoesAvaliadas": 5,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Critics Choice Documentary Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "Cinema Eye Honors Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "IDA Awards": {
             "ind": true,
             "seg": false,
             "vit": false,
@@ -1376,15 +2799,59 @@
         }
       },
       {
-        "nome": "\"BLKNWS: Terms & Conditions\"",
-        "foto": "https://i.imgur.com/mSHim30.jpeg",
-        "ind": 1,
-        "esn": 2,
+        "nome": "\"Tardes de Solidão\"",
+        "foto": "https://i.imgur.com/xaeTxzq.jpeg",
+        "ind": 2,
+        "esn": 3,
         "seg": 0,
         "vit": 0,
         "percent": 0,
-        "nPremiacoesCategoria": 3,
-        "nPremiacoesAvaliadas": 3,
+        "nPremiacoesCategoria": 5,
+        "nPremiacoesAvaliadas": 5,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Critics Choice Documentary Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "Cinema Eye Honors Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "IDA Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"BLKNWS: Terms & Conditions\"",
+        "foto": "https://i.imgur.com/mSHim30.jpeg",
+        "ind": 1,
+        "esn": 4,
+        "seg": 0,
+        "vit": 0,
+        "percent": 0,
+        "nPremiacoesCategoria": 5,
+        "nPremiacoesAvaliadas": 5,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Critics Choice Documentary Awards": {
@@ -1400,6 +2867,18 @@
             "esn": false
           },
           "Cinema Eye Honors Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "IDA Awards": {
             "ind": false,
             "seg": false,
             "vit": false,
@@ -1411,12 +2890,12 @@
         "nome": "\"Embaixo da Luz de Neon\"",
         "foto": "https://i.imgur.com/OKH41Nk.jpeg",
         "ind": 1,
-        "esn": 2,
+        "esn": 4,
         "seg": 0,
         "vit": 0,
         "percent": 0,
-        "nPremiacoesCategoria": 3,
-        "nPremiacoesAvaliadas": 3,
+        "nPremiacoesCategoria": 5,
+        "nPremiacoesAvaliadas": 5,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Critics Choice Documentary Awards": {
@@ -1432,6 +2911,106 @@
             "esn": true
           },
           "Cinema Eye Honors Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "IDA Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"Fiume o Morte!\"",
+        "foto": "https://i.imgur.com/Yxdzg7M.jpeg",
+        "ind": 1,
+        "esn": 4,
+        "seg": 0,
+        "vit": 0,
+        "percent": 0,
+        "nPremiacoesCategoria": 5,
+        "nPremiacoesAvaliadas": 5,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Critics Choice Documentary Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "Cinema Eye Honors Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "IDA Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"Life After\"",
+        "foto": "https://i.imgur.com/G5R1B9R.jpeg",
+        "ind": 1,
+        "esn": 4,
+        "seg": 0,
+        "vit": 0,
+        "percent": 0,
+        "nPremiacoesCategoria": 5,
+        "nPremiacoesAvaliadas": 5,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Critics Choice Documentary Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "Cinema Eye Honors Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "IDA Awards": {
             "ind": true,
             "seg": false,
             "vit": false,
@@ -1443,12 +3022,12 @@
         "nome": "\"My Undesirable Friends: Part I – Last Air in Moscow\"",
         "foto": "https://i.imgur.com/PF6uoTC.jpeg",
         "ind": 1,
-        "esn": 2,
+        "esn": 4,
         "seg": 0,
         "vit": 0,
         "percent": 0,
-        "nPremiacoesCategoria": 3,
-        "nPremiacoesAvaliadas": 3,
+        "nPremiacoesCategoria": 5,
+        "nPremiacoesAvaliadas": 5,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Critics Choice Documentary Awards": {
@@ -1468,19 +3047,207 @@
             "seg": false,
             "vit": false,
             "esn": true
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "IDA Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
           }
         }
       },
       {
-        "nome": "\"Seeds\"",
-        "foto": "https://i.imgur.com/PHn3e2G.jpeg",
+        "nome": "\"O Presidente Surdo\"",
+        "foto": "https://i.imgur.com/uSHuBay.jpeg",
         "ind": 1,
-        "esn": 2,
+        "esn": 4,
         "seg": 0,
         "vit": 0,
         "percent": 0,
-        "nPremiacoesCategoria": 3,
-        "nPremiacoesAvaliadas": 3,
+        "nPremiacoesCategoria": 5,
+        "nPremiacoesAvaliadas": 5,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Critics Choice Documentary Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "Cinema Eye Honors Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "IDA Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"Orwell: 2+2=5\"",
+        "foto": "https://i.imgur.com/mOLCMxV.jpeg",
+        "ind": 1,
+        "esn": 4,
+        "seg": 0,
+        "vit": 0,
+        "percent": 0,
+        "nPremiacoesCategoria": 5,
+        "nPremiacoesAvaliadas": 5,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Critics Choice Documentary Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "Cinema Eye Honors Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "IDA Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"Pee-wee as Himself\"",
+        "foto": "https://i.imgur.com/UoNopvR.jpeg",
+        "ind": 1,
+        "esn": 4,
+        "seg": 0,
+        "vit": 0,
+        "percent": 0,
+        "nPremiacoesCategoria": 5,
+        "nPremiacoesAvaliadas": 5,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Critics Choice Documentary Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "Cinema Eye Honors Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "IDA Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"The Alabama Solution\"",
+        "foto": "https://i.imgur.com/hfHHh4X.jpeg",
+        "ind": 1,
+        "esn": 4,
+        "seg": 0,
+        "vit": 0,
+        "percent": 0,
+        "nPremiacoesCategoria": 5,
+        "nPremiacoesAvaliadas": 5,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Critics Choice Documentary Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "Cinema Eye Honors Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "IDA Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"With Hasan in Gaza\"",
+        "foto": "https://i.imgur.com/wCBUuTH.jpeg",
+        "ind": 1,
+        "esn": 4,
+        "seg": 0,
+        "vit": 0,
+        "percent": 0,
+        "nPremiacoesCategoria": 5,
+        "nPremiacoesAvaliadas": 5,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
           "Critics Choice Documentary Awards": {
@@ -1496,6 +3263,40 @@
             "esn": true
           },
           "Cinema Eye Honors Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "IDA Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      }
+    ],
+    "MELHOR ANIMAÇÃO": [
+      {
+        "nome": "\"Arco\"",
+        "foto": "https://i.imgur.com/S5GYq6d.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 51.61,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "European Film Awards": {
             "ind": true,
             "seg": false,
             "vit": false,
@@ -1504,30 +3305,78 @@
         }
       },
       {
-        "nome": "\"Tardes de Solidão\"",
-        "foto": "https://i.imgur.com/xaeTxzq.jpeg",
+        "nome": "\"Dog of God\"",
+        "foto": "https://i.imgur.com/IVLnD8Y.jpeg",
         "ind": 1,
-        "esn": 2,
+        "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 0,
-        "nPremiacoesCategoria": 3,
-        "nPremiacoesAvaliadas": 3,
+        "percent": 51.61,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
-          "Critics Choice Documentary Awards": {
-            "ind": false,
+          "European Film Awards": {
+            "ind": true,
             "seg": false,
             "vit": false,
-            "esn": true
-          },
-          "Gotham Awards": {
-            "ind": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Little Amélie or the Character of Rain\"",
+        "foto": "https://i.imgur.com/mc0PKQg.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 51.61,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "European Film Awards": {
+            "ind": true,
             "seg": false,
             "vit": false,
-            "esn": true
-          },
-          "Cinema Eye Honors Awards": {
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Olivia and the Invisible Earthquake\"",
+        "foto": "https://i.imgur.com/722GQZa.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 51.61,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "European Film Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Tales From the Magic Garden\"",
+        "foto": "https://i.imgur.com/Hch3wCD.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 51.61,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "European Film Awards": {
             "ind": true,
             "seg": false,
             "vit": false,
@@ -1536,535 +3385,7 @@
         }
       }
     ],
-    "MELHOR ANIMAÇÃO": [],
-    "MELHOR FOTOGRAFIA": [],
-    "MELHOR DIREÇÃO DE ARTE": [],
-    "MELHOR FIGURINO": [],
-    "MELHOR MAQUIAGEM": [],
-    "MELHOR SOM": [],
-    "MELHOR CANÇÃO": [
-      {
-        "nome": "\"Best Time Ever\" - \"Snoopy Apresenta: Um Musical de Verão\"",
-        "foto": "https://i.imgur.com/e4QSMBg.jpeg",
-        "ind": 1,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 35.9,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      },
-      {
-        "nome": "\"Dear Me\" - \"Diane Warren: Relentless\"",
-        "foto": "https://i.imgur.com/XRcPfqa.jpeg",
-        "ind": 1,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 35.9,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      },
-      {
-        "nome": "\"Dream As One\" - \"Avatar: Fogo e Cinzas\"",
-        "foto": "https://i.imgur.com/NtanaG7.jpeg",
-        "ind": 1,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 35.9,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      },
-      {
-        "nome": "\"Drive\" - \"F1\"",
-        "foto": "https://i.imgur.com/Jajay7q.jpeg",
-        "ind": 1,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 35.9,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      },
-      {
-        "nome": "\"Dying To Live\" - \"Billy Idol Should Be Dead\"",
-        "foto": "https://i.imgur.com/fyfjkys.jpeg",
-        "ind": 1,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 35.9,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      },
-      {
-        "nome": "\"Golden\" - \"Guerreiras do K-POP\"",
-        "foto": "https://i.imgur.com/so6BgBo.jpeg",
-        "ind": 1,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 35.9,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      },
-      {
-        "nome": "\"Gooflife\" - \"Os Caras Malvados 2\"",
-        "foto": "https://i.imgur.com/EmG3Mrb.jpeg",
-        "ind": 1,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 35.9,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      },
-      {
-        "nome": "\"Have You Seen My Light\" - \"October 8\"",
-        "foto": "https://i.imgur.com/S7n9lxC.jpeg",
-        "ind": 1,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 35.9,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      },
-      {
-        "nome": "\"Highest 2 Lowest\" - \"Luta de Classes\"",
-        "foto": "https://i.imgur.com/ZREZA17.jpeg",
-        "ind": 1,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 35.9,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      },
-      {
-        "nome": "\"I Lied To You\" - \"Pecadores\"",
-        "foto": "https://i.imgur.com/9WigP8l.jpeg",
-        "ind": 1,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 35.9,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      },
-      {
-        "nome": "\"Kaleidoscope\" - \"A Casa Mágica da Gabby: O Filme\"",
-        "foto": "https://i.imgur.com/K4ejgnc.jpeg",
-        "ind": 1,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 35.9,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      },
-      {
-        "nome": "\"Last Time (I See The Sun)\" - \"Pecadores\"",
-        "foto": "https://i.imgur.com/9WigP8l.jpeg",
-        "ind": 1,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 35.9,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      },
-      {
-        "nome": "\"Learn to Let Go\" - \"Everything to Me\"",
-        "foto": "https://i.imgur.com/hBUlg8C.jpeg",
-        "ind": 1,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 35.9,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      },
-      {
-        "nome": "\"Lose My Mind\" - \"F1\"",
-        "foto": "https://i.imgur.com/Jajay7q.jpeg",
-        "ind": 1,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 35.9,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      },
-      {
-        "nome": "\"Milagros\" - \"Karol G: Tomorrow was Beautiful\"",
-        "foto": "https://i.imgur.com/k8klQgd.jpeg",
-        "ind": 1,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 35.9,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      },
-      {
-        "nome": "\"My San Francisco\" - \"Plainclothes\"",
-        "foto": "https://i.imgur.com/eFWXXqp.jpeg",
-        "ind": 1,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 35.9,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      },
-      {
-        "nome": "\"No Place Like Home\" - \"Wicked - parte 2\"",
-        "foto": "http://i.imgur.com/EYsZO8f.jpeg",
-        "ind": 1,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 35.9,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      },
-      {
-        "nome": "\"Open the Door\" - \"Os Pestes\"",
-        "foto": "https://i.imgur.com/pW9xSrr.jpeg",
-        "ind": 1,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 35.9,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      },
-      {
-        "nome": "\"Salt then Sour then Sweet\" - \"Embaixo da Luz de Neon\"",
-        "foto": "https://i.imgur.com/vIefeOE.jpeg",
-        "ind": 1,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 35.9,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      },
-      {
-        "nome": "\"The Girl in the Bubble\" - \"Wicked - parte 2\"",
-        "foto": "http://i.imgur.com/EYsZO8f.jpeg",
-        "ind": 1,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 35.9,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      },
-      {
-        "nome": "\"Time Is All We Have\" - \"Momo\"",
-        "foto": "https://i.imgur.com/XSaFSmB.jpeg",
-        "ind": 1,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 35.9,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      },
-      {
-        "nome": "\"We Believe In Hope\" - \"Quebrando as Regras\"",
-        "foto": "https://i.imgur.com/ruTvz6z.jpeg",
-        "ind": 1,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 35.9,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      },
-      {
-        "nome": "\"Zoo\" - \"Zootopia 2\"",
-        "foto": "https://i.imgur.com/PYObyKr.jpeg",
-        "ind": 1,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 35.9,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      }
-    ],
-    "MELHOR TRILHA SONORA": [
-      {
-        "nome": "\"Bugonia\"",
-        "foto": "https://i.imgur.com/OL18pEj.jpeg",
-        "ind": 1,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 35.9,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      },
-      {
-        "nome": "\"Casa de Dinamite\"",
-        "foto": "https://i.imgur.com/aaOF2pR.jpeg",
-        "ind": 1,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 35.9,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      },
-      {
-        "nome": "\"F1\"",
-        "foto": "https://i.imgur.com/Jajay7q.jpeg",
-        "ind": 1,
-        "esn": 0,
-        "seg": 0,
-        "vit": 0,
-        "percent": 35.9,
-        "nPremiacoesCategoria": 1,
-        "nPremiacoesAvaliadas": 1,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      },
+    "MELHOR FOTOGRAFIA": [
       {
         "nome": "\"Frankenstein\"",
         "foto": "https://i.imgur.com/EeYKwmM.jpeg",
@@ -2072,12 +3393,12 @@
         "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 35.9,
+        "percent": 39.29,
         "nPremiacoesCategoria": 1,
         "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
+          "Astra Creative Arts Awards": {
             "ind": true,
             "seg": false,
             "vit": false,
@@ -2092,12 +3413,12 @@
         "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 35.9,
+        "percent": 39.29,
         "nPremiacoesCategoria": 1,
         "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
+          "Astra Creative Arts Awards": {
             "ind": true,
             "seg": false,
             "vit": false,
@@ -2112,12 +3433,12 @@
         "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 35.9,
+        "percent": 39.29,
         "nPremiacoesCategoria": 1,
         "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
+          "Astra Creative Arts Awards": {
             "ind": true,
             "seg": false,
             "vit": false,
@@ -2132,12 +3453,12 @@
         "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 35.9,
+        "percent": 39.29,
         "nPremiacoesCategoria": 1,
         "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
+          "Astra Creative Arts Awards": {
             "ind": true,
             "seg": false,
             "vit": false,
@@ -2146,18 +3467,140 @@
         }
       },
       {
-        "nome": "​\"Uma Batalha Após a Outra\"",
+        "nome": "\"Sonhos de Trem\"",
+        "foto": "https://i.imgur.com/haXClB4.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Uma Batalha Após a Outra\"",
         "foto": "https://i.imgur.com/oNV8zg6.jpeg",
         "ind": 1,
         "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 35.9,
+        "percent": 39.29,
         "nPremiacoesCategoria": 1,
         "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      }
+    ],
+    "MELHOR DIREÇÃO DE ARTE": [
+      {
+        "nome": "\"Frankenstein\"",
+        "foto": "https://i.imgur.com/EeYKwmM.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Hamnet\"",
+        "foto": "https://i.imgur.com/Gmnuszl.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Hedda\"",
+        "foto": "https://i.imgur.com/mYdlGo4.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"O Esquema Fenício\"",
+        "foto": "https://i.imgur.com/Bgy73SP.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Pecadores\"",
+        "foto": "https://i.imgur.com/9WigP8l.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
             "ind": true,
             "seg": false,
             "vit": false,
@@ -2172,12 +3615,12 @@
         "esn": 0,
         "seg": 0,
         "vit": 0,
-        "percent": 35.9,
+        "percent": 39.29,
         "nPremiacoesCategoria": 1,
         "nPremiacoesAvaliadas": 1,
         "indicadoAoOscar": false,
         "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
+          "Astra Creative Arts Awards": {
             "ind": true,
             "seg": false,
             "vit": false,
@@ -2186,6 +3629,1459 @@
         }
       }
     ],
-    "MELHOR EFEITOS VISUAIS": []
+    "MELHOR FIGURINO": [
+      {
+        "nome": "\"Frankenstein\"",
+        "foto": "https://i.imgur.com/EeYKwmM.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Hamnet\"",
+        "foto": "https://i.imgur.com/Gmnuszl.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Hedda\"",
+        "foto": "https://i.imgur.com/mYdlGo4.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"O Testamento de Ann Lee\"",
+        "foto": "https://i.imgur.com/RafyGcG.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Pecadores\"",
+        "foto": "https://i.imgur.com/9WigP8l.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Wicked - parte 2\"",
+        "foto": "http://i.imgur.com/EYsZO8f.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      }
+    ],
+    "MELHOR MAQUIAGEM": [
+      {
+        "nome": "\"A Hora do Mal\"",
+        "foto": "https://i.imgur.com/mqofUMR.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Frankenstein\"",
+        "foto": "https://i.imgur.com/EeYKwmM.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"O Beijo da Mulher Aranha\"",
+        "foto": "https://i.imgur.com/0SEJLZJ.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Pecadores\"",
+        "foto": "https://i.imgur.com/9WigP8l.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Waltzing with Brando\"",
+        "foto": "https://i.imgur.com/6q8vFdI.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Wicked - parte 2\"",
+        "foto": "http://i.imgur.com/EYsZO8f.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      }
+    ],
+    "MELHOR SOM": [
+      {
+        "nome": "\"A Longa Marcha\"",
+        "foto": "https://i.imgur.com/BP70lQh.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Frankenstein\"",
+        "foto": "https://i.imgur.com/EeYKwmM.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Guerreiras do K-POP\"",
+        "foto": "https://i.imgur.com/so6BgBo.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Pecadores\"",
+        "foto": "https://i.imgur.com/9WigP8l.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Uma Batalha Após a Outra\"",
+        "foto": "https://i.imgur.com/oNV8zg6.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Wicked - parte 2\"",
+        "foto": "http://i.imgur.com/EYsZO8f.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      }
+    ],
+    "MELHOR CANÇÃO": [
+      {
+        "nome": "\"Golden\" - \"Guerreiras do K-POP\"",
+        "foto": "https://i.imgur.com/so6BgBo.jpeg",
+        "ind": 2,
+        "esn": 0,
+        "seg": 0,
+        "vit": 1,
+        "percent": 83.96,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": true,
+            "esn": false
+          },
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"I Lied To You\" - \"Pecadores\"",
+        "foto": "https://i.imgur.com/9WigP8l.jpeg",
+        "ind": 2,
+        "esn": 0,
+        "seg": 0,
+        "vit": 1,
+        "percent": 83.96,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": true,
+            "esn": false
+          },
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Dear Me\" - \"Diane Warren: Relentless\"",
+        "foto": "https://i.imgur.com/XRcPfqa.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 1,
+        "percent": 69.81,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": true,
+            "esn": false
+          },
+          "Astra Creative Arts Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"Highest 2 Lowest\" - \"Luta de Classes\"",
+        "foto": "https://i.imgur.com/ZREZA17.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 1,
+        "percent": 69.81,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": true,
+            "esn": false
+          },
+          "Astra Creative Arts Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"No Place Like Home\" - \"Wicked - parte 2\"",
+        "foto": "http://i.imgur.com/EYsZO8f.jpeg",
+        "ind": 2,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 36.79,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"The Girl in the Bubble\" - \"Wicked - parte 2\"",
+        "foto": "http://i.imgur.com/EYsZO8f.jpeg",
+        "ind": 2,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 36.79,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Best Time Ever\" - \"Snoopy Apresenta: Um Musical de Verão\"",
+        "foto": "https://i.imgur.com/e4QSMBg.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.64,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Astra Creative Arts Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"Dream As One\" - \"Avatar: Fogo e Cinzas\"",
+        "foto": "https://i.imgur.com/NtanaG7.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.64,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Astra Creative Arts Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"Drive\" - \"F1\"",
+        "foto": "https://i.imgur.com/Jajay7q.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.64,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Astra Creative Arts Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"Dying To Live\" - \"Billy Idol Should Be Dead\"",
+        "foto": "https://i.imgur.com/fyfjkys.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.64,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Astra Creative Arts Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"Gooflife\" - \"Os Caras Malvados 2\"",
+        "foto": "https://i.imgur.com/EmG3Mrb.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.64,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Astra Creative Arts Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"Have You Seen My Light\" - \"October 8\"",
+        "foto": "https://i.imgur.com/S7n9lxC.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.64,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Astra Creative Arts Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"Kaleidoscope\" - \"A Casa Mágica da Gabby: O Filme\"",
+        "foto": "https://i.imgur.com/K4ejgnc.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.64,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Astra Creative Arts Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"Last Time (I See The Sun)\" - \"Pecadores\"",
+        "foto": "https://i.imgur.com/9WigP8l.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.64,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Astra Creative Arts Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"Learn to Let Go\" - \"Everything to Me\"",
+        "foto": "https://i.imgur.com/hBUlg8C.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.64,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Astra Creative Arts Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"Lose My Mind\" - \"F1\"",
+        "foto": "https://i.imgur.com/Jajay7q.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.64,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Astra Creative Arts Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"Milagros\" - \"Karol G: Tomorrow was Beautiful\"",
+        "foto": "https://i.imgur.com/k8klQgd.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.64,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Astra Creative Arts Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"My San Francisco\" - \"Plainclothes\"",
+        "foto": "https://i.imgur.com/eFWXXqp.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.64,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Astra Creative Arts Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"Open the Door\" - \"Os Pestes\"",
+        "foto": "https://i.imgur.com/pW9xSrr.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.64,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Astra Creative Arts Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"Salt then Sour then Sweet\" - \"Embaixo da Luz de Neon\"",
+        "foto": "https://i.imgur.com/vIefeOE.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.64,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Astra Creative Arts Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"Time Is All We Have\" - \"Momo\"",
+        "foto": "https://i.imgur.com/XSaFSmB.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.64,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Astra Creative Arts Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"We Believe In Hope\" - \"Quebrando as Regras\"",
+        "foto": "https://i.imgur.com/ruTvz6z.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.64,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Astra Creative Arts Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"Zoo\" - \"Zootopia 2\"",
+        "foto": "https://i.imgur.com/PYObyKr.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.64,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Astra Creative Arts Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"Clothed by the Sun\" - \"O Testamento de Ann Lee\"",
+        "foto": "https://i.imgur.com/RafyGcG.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 0,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Train Dreams\" - \"Sonhos de Trem\"",
+        "foto": "https://i.imgur.com/haXClB4.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 0,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      }
+    ],
+    "MELHOR TRILHA SONORA": [
+      {
+        "nome": "\"Pecadores\"",
+        "foto": "https://i.imgur.com/9WigP8l.jpeg",
+        "ind": 2,
+        "esn": 0,
+        "seg": 0,
+        "vit": 1,
+        "percent": 83.96,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": true,
+            "esn": false
+          },
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Frankenstein\"",
+        "foto": "https://i.imgur.com/EeYKwmM.jpeg",
+        "ind": 2,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 36.79,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Hamnet\"",
+        "foto": "https://i.imgur.com/Gmnuszl.jpeg",
+        "ind": 2,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 36.79,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Bugonia\"",
+        "foto": "https://i.imgur.com/OL18pEj.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.64,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Astra Creative Arts Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"Casa de Dinamite\"",
+        "foto": "https://i.imgur.com/aaOF2pR.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.64,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Astra Creative Arts Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"F1\"",
+        "foto": "https://i.imgur.com/Jajay7q.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.64,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Astra Creative Arts Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"Marty Supreme\"",
+        "foto": "https://i.imgur.com/W09va0P.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.64,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Astra Creative Arts Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "​\"Uma Batalha Após a Outra\"",
+        "foto": "https://i.imgur.com/oNV8zg6.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.64,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Astra Creative Arts Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"Wicked - parte 2\"",
+        "foto": "http://i.imgur.com/EYsZO8f.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 22.64,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Astra Creative Arts Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
+      {
+        "nome": "\"Hedda\"",
+        "foto": "https://i.imgur.com/mYdlGo4.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 0,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Jay Kelly\"",
+        "foto": "https://i.imgur.com/3OcB7pP.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 0,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Uma Batalha Após a Outra\"",
+        "foto": "https://i.imgur.com/oNV8zg6.jpeg",
+        "ind": 1,
+        "esn": 1,
+        "seg": 0,
+        "vit": 0,
+        "percent": 0,
+        "nPremiacoesCategoria": 2,
+        "nPremiacoesAvaliadas": 2,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      }
+    ],
+    "MELHOR EFEITOS VISUAIS": [
+      {
+        "nome": "\"Como Treinar Seu Dragão\"",
+        "foto": "https://i.imgur.com/bs3KqSU.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Frankenstein\"",
+        "foto": "https://i.imgur.com/EeYKwmM.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Jurassic World: Recomeço\"",
+        "foto": "https://i.imgur.com/RBbya13.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Superman\"",
+        "foto": "https://i.imgur.com/1wg904Z.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Telefone Preto 2\"",
+        "foto": "https://i.imgur.com/kYPOztZ.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
+        "nome": "\"Wicked - parte 2\"",
+        "foto": "http://i.imgur.com/EYsZO8f.jpeg",
+        "ind": 1,
+        "esn": 0,
+        "seg": 0,
+        "vit": 0,
+        "percent": 39.29,
+        "nPremiacoesCategoria": 1,
+        "nPremiacoesAvaliadas": 1,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      }
+    ]
   }
 }
