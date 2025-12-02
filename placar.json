@@ -1,5 +1,5 @@
 {
-  "buildAt": "2025-12-02T20:00:08.596Z",
+  "buildAt": "2025-12-02T20:10:59.868Z",
   "categorias": {
     "MELHOR FILME": [
       {
@@ -4588,6 +4588,38 @@
       }
     ],
     "MELHOR ROTEIRO ADAPTADO": [
+      {
+        "nome": "joa",
+        "foto": "",
+        "ind": 0,
+        "esn": 2,
+        "seg": 0,
+        "vit": 1,
+        "percent": 6.16,
+        "nPremiacoesCategoria": 4,
+        "nPremiacoesAvaliadas": 3,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Gotham Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": true,
+            "esn": false
+          },
+          "Astra Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          }
+        }
+      },
       {
         "nome": "\"Pillion\"",
         "foto": "https://i.imgur.com/1cWA2VJ.jpeg",
