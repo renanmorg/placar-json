@@ -1,5 +1,5 @@
 {
-  "buildAt": "2025-12-07T18:20:10.426Z",
+  "buildAt": "2025-12-07T18:31:55.164Z",
   "categorias": {
     "MELHOR FILME": [
       {
@@ -22407,6 +22407,62 @@
         }
       },
       {
+        "nome": "\"Uma Batalha Após a Outra\"",
+        "foto": "https://i.imgur.com/oNV8zg6.jpeg",
+        "ind": 5,
+        "esn": 1,
+        "seg": 1,
+        "vit": 0,
+        "percent": 29.33,
+        "nPremiacoesCategoria": 7,
+        "nPremiacoesAvaliadas": 7,
+        "indicadoAoOscar": false,
+        "flagsPorPremiacao": {
+          "Hollywood Music In Media Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Astra Creative Arts Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "European Film Awards": {
+            "ind": false,
+            "seg": false,
+            "vit": false,
+            "esn": true
+          },
+          "Atlanta Film Critics Circle Awards": {
+            "ind": false,
+            "seg": true,
+            "vit": false,
+            "esn": false
+          },
+          "Critics Choice Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Seattle Film Critics Society Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          },
+          "Washington DC Area Film Critics Awards": {
+            "ind": true,
+            "seg": false,
+            "vit": false,
+            "esn": false
+          }
+        }
+      },
+      {
         "nome": "\"Frankenstein\"",
         "foto": "https://i.imgur.com/EeYKwmM.jpeg",
         "ind": 5,
@@ -22565,62 +22621,6 @@
             "seg": false,
             "vit": false,
             "esn": true
-          },
-          "Washington DC Area Film Critics Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          }
-        }
-      },
-      {
-        "nome": "\"Uma Batalha Após a Outra\"",
-        "foto": "https://i.imgur.com/oNV8zg6.jpeg",
-        "ind": 4,
-        "esn": 2,
-        "seg": 1,
-        "vit": 0,
-        "percent": 17.32,
-        "nPremiacoesCategoria": 7,
-        "nPremiacoesAvaliadas": 7,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
-            "ind": false,
-            "seg": false,
-            "vit": false,
-            "esn": true
-          },
-          "Astra Creative Arts Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          },
-          "European Film Awards": {
-            "ind": false,
-            "seg": false,
-            "vit": false,
-            "esn": true
-          },
-          "Atlanta Film Critics Circle Awards": {
-            "ind": false,
-            "seg": true,
-            "vit": false,
-            "esn": false
-          },
-          "Critics Choice Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          },
-          "Seattle Film Critics Society Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
           },
           "Washington DC Area Film Critics Awards": {
             "ind": true,
@@ -23013,62 +23013,6 @@
             "seg": false,
             "vit": false,
             "esn": false
-          },
-          "Washington DC Area Film Critics Awards": {
-            "ind": false,
-            "seg": false,
-            "vit": false,
-            "esn": true
-          }
-        }
-      },
-      {
-        "nome": "​\"Uma Batalha Após a Outra\"",
-        "foto": "https://i.imgur.com/oNV8zg6.jpeg",
-        "ind": 1,
-        "esn": 6,
-        "seg": 0,
-        "vit": 0,
-        "percent": 0,
-        "nPremiacoesCategoria": 7,
-        "nPremiacoesAvaliadas": 7,
-        "indicadoAoOscar": false,
-        "flagsPorPremiacao": {
-          "Hollywood Music In Media Awards": {
-            "ind": true,
-            "seg": false,
-            "vit": false,
-            "esn": false
-          },
-          "Astra Creative Arts Awards": {
-            "ind": false,
-            "seg": false,
-            "vit": false,
-            "esn": true
-          },
-          "European Film Awards": {
-            "ind": false,
-            "seg": false,
-            "vit": false,
-            "esn": true
-          },
-          "Atlanta Film Critics Circle Awards": {
-            "ind": false,
-            "seg": false,
-            "vit": false,
-            "esn": true
-          },
-          "Critics Choice Awards": {
-            "ind": false,
-            "seg": false,
-            "vit": false,
-            "esn": true
-          },
-          "Seattle Film Critics Society Awards": {
-            "ind": false,
-            "seg": false,
-            "vit": false,
-            "esn": true
           },
           "Washington DC Area Film Critics Awards": {
             "ind": false,
